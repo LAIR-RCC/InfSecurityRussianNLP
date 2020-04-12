@@ -1,0 +1,9 @@
+T1	PROGRAM 193 224	UserGate Proxy & Firewall 5.2.F
+T3	PROGRAM 287 316	UserGate Proxy & Firewall 5.4
+T4	ORG 535 540	ФСТЭК
+T5	PROGRAM 565 596	UserGate Proxy & Firewall 5.2.F
+T6	PROGRAM 684 715	UserGate Proxy & Firewall 5.2.F
+T7	TECH 443 455	IP-телефонии
+T8	TECH 483 495	DNS-запросов
+T2	ORG 245 250	ФСТЭК
+T9	LOC 251 257	России

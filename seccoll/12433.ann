@@ -1,0 +1,27 @@
+T6	ORG 705 737	Межвузовский бизнес-инкубатор QD
+T7	LOC 1156 1171	Санкт-Петербург
+T10	PER 1362 1376	Никита Абдулин
+T12	TECH 1946 1949	HVM
+T13	PER 1992 2008	Никита Тараканов
+T16	PROGRAM 2608 2611	XNU
+T17	PROGRAM 2652 2655	XNU
+T18	PER 2788 2805	Александр Поляков
+T19	ARTEFACT 2809 2832	Lockpicking for newbies
+T20	PER 3010 3021	Павел Ершов
+T23	PROGRAM 3560 3567	Twitter
+T2	ARTEFACT 2012 2049	MacOS X - защита ядра и атаки на него
+T25	ARTEFACT 1380 1421	Аппаратная виртуализация и вредоносное ПО
+T8	LOC 1173 1191	Биржевая линия В.О
+T3	PROGRAM 2323 2330	MacOS X
+T9	PROGRAM 2085 2092	MacOS X
+T14	PROGRAM 2333 2354	Snow Leopard (10.6.8)
+T26	PROGRAM 2364 2377	Lion (10.7.X)
+T27	PROGRAM 2431 2435	Lion
+T28	PROGRAM 2599 2606	MacOS X
+T21	ARTEFACT 3025 3064	Децентрализованная криптовалюта Bitcoin
+T1	ORG 0 36	Группа Defcon-Russia (группа DC7812)
+T4	ORG 606 627	"Бизнес Инкубатор" QD
+T5	ORG 636 640	ИТМО
+T24	TECH 1602 1605	HVM
+T15	PROGRAM 2579 2587	(Safari)
+T11	TECH 1481 1486	(HVM)

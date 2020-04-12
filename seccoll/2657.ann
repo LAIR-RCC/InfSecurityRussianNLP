@@ -1,0 +1,8 @@
+T1	PROGRAM 23 40	Microsoft Windows
+T2	PROGRAM 41 61	Microsoft Windows XP
+T5	PROGRAM 61 83	Microsoft Windows 2003
+T6	PROGRAM 83 106	Microsoft Windows Vista
+T7	PROGRAM 106 128	Microsoft Windows 2008
+T8	PROGRAM 128 147	Microsoft Windows 7
+T3	PROGRAM 533 540	Windows
+T4	VIRUS 560 582	Elevation of Privilege

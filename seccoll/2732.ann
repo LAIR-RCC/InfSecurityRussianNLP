@@ -1,0 +1,61 @@
+T7	TECH 628 638	ISATAP URL
+T16	PROGRAM 1852 1884	Windows Media Format Runtime 9.0
+T1	PROGRAM 36 49	Windows Media
+T39	PROGRAM 50 78	Windows Media Format Runtime
+T2	PROGRAM 103 127	Windows Media Player 6.4
+T40	PROGRAM 127 149	Windows Media Services
+T3	PROGRAM 401 429	Service Principal Name (SPN)
+T4	TECH 444 448	NTLM
+T5	VIRUS 497 503	replay
+T6	TECH 686 690	NTLM
+T41	VIRUS 703 709	replay
+T8	PROGRAM 872 896	Windows Media Player 6.4
+T9	PROGRAM 900 916	Windows 2000 SP4
+T10	PROGRAM 996 1020	Windows Media Player 6.4
+T11	PROGRAM 1024 1042	Windows XP SP2/SP3
+T42	PROGRAM 1122 1146	Windows Media Player 6.4
+T43	PROGRAM 1150 1185	Windows XP Professional x64 Edition
+T12	PROGRAM 1285 1309	Windows Media Player 6.4
+T44	PROGRAM 1313 1340	Windows Server 2003 SP1/SP2
+T13	PROGRAM 1420 1444	Windows Media Player 6.4
+T45	PROGRAM 1448 1479	Windows Server 2003 x64 Edition
+T14	PROGRAM 1579 1611	Windows Media Format Runtime 7.1
+T46	PROGRAM 1619 1635	Windows 2000 SP4
+T15	PROGRAM 1715 1747	Windows Media Format Runtime 9.0
+T47	PROGRAM 1758 1772	Windows XP SP2
+T48	PROGRAM 1895 1909	Windows XP SP3
+T17	PROGRAM 1989 2021	Windows Media Format Runtime 9.5
+T49	PROGRAM 2028 2063	Windows XP Professional x64 Edition
+T18	PROGRAM 2163 2207	Windows Media Format Runtime 9.5 x64 Edition
+T19	PROGRAM 2211 2246	Windows XP Professional x64 Edition
+T20	PROGRAM 2346 2389	Windows Media Format Runtime 11 x64 Edition
+T21	PROGRAM 2393 2428	Windows XP Professional x64 Edition
+T22	PROGRAM 2528 2560	Windows Media Format Runtime 9.5
+T23	PROGRAM 2564 2591	Windows Server 2003 SP1/SP2
+T24	PROGRAM 2671 2703	Windows Media Format Runtime 9.5
+T25	PROGRAM 2707 2738	Windows Server 2003 x64 Edition
+T26	PROGRAM 2838 2882	Windows Media Format Runtime 9.5 x64 Edition
+T27	PROGRAM 2886 2917	Windows Server 2003 x64 Edition
+T28	PROGRAM 3017 3060	Windows Media Format Runtime 11 x64 Edition
+T29	PROGRAM 3064 3095	Windows Server 2003 x64 Edition
+T30	PROGRAM 3230 3243	Windows Vista
+T31	PROGRAM 3195 3226	Windows Media Format Runtime 11
+T32	PROGRAM 3343 3374	Windows Media Format Runtime 11
+T33	PROGRAM 3378 3403	Windows Vista x64 Edition
+T34	PROGRAM 3503 3534	Windows Media Format Runtime 11
+T35	PROGRAM 3538 3557	Windows Server 2008
+T36	PROGRAM 3656 3687	Windows Media Format Runtime 11
+T37	PROGRAM 3691 3710	Windows Server 2008
+T38	PROGRAM 3812 3838	Windows Media Services 4.1
+T50	PROGRAM 3842 3858	Windows 2000 SP4
+T51	PROGRAM 3938 3969	Windows Media Services 9 Series
+T52	PROGRAM 3973 4000	Windows Server 2003 SP1/SP2
+T53	PROGRAM 4080 4111	Windows Media Services 9 Series
+T54	PROGRAM 4115 4146	Windows Server 2003 x64 Edition
+T55	PROGRAM 4246 4273	Windows Media Services 2008
+T56	PROGRAM 4277 4315	Windows Server 2008 for 32-bit Systems
+T57	PROGRAM 4415 4442	Windows Media Services 2008
+T58	PROGRAM 4446 4465	Windows Server 2008
+T59	PROGRAM 4691 4718	Windows Media Services 2008
+T60	PROGRAM 4723 4746	Windows 2008 Server SP2
+T61	PROGRAM 4785 4798	Windows Media

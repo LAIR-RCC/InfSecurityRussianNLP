@@ -1,0 +1,3 @@
+T1	ORG 0 8	F-Secure
+T2	ORG 9 17	F-Secure
+T3	PROGRAM 648 659	DeepGuard 5

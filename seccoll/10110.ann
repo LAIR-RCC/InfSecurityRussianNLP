@@ -1,0 +1,6 @@
+T1	PROGRAM 325 332	BusyBox
+T2	PROGRAM 0 7	dSploit
+T3	PROGRAM 42 49	dSploit
+T4	PROGRAM 175 185	ОС Android
+T5	DEVICE 486 503	Android-устройств
+T6	TECH 225 236	root-доступ

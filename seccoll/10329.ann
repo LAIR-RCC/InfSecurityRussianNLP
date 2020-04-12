@@ -1,0 +1,5 @@
+T3	TECH 629 633	CVSS
+T1	PROGRAM 27 52	Microsoft Exchange Server
+T4	PROGRAM 53 83	Microsoft Exchange Server 2007
+T5	PROGRAM 83 113	Microsoft Exchange Server 2010
+T6	VIRUS 194 197	DoS

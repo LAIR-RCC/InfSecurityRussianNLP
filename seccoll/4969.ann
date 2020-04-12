@@ -1,0 +1,5 @@
+T5	TECH 347 350	PNG
+T7	PROGRAM 32 38	libpng
+T8	PROGRAM 39 45	libpng
+T1	PROGRAM 237 260	png_formatted_warning()
+T2	PROGRAM 269 279	pngerror.c

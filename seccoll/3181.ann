@@ -1,0 +1,14 @@
+T4	PROGRAM 180 195	Yahoo!Directory
+T5	PROGRAM 250 260	Yahoo!Mail
+T6	ORG 271 276	Yahoo
+T7	ORG 328 355	Стэндфордского университета
+T8	PER 356 369	Дэвидом Файло
+T9	PER 372 384	Джерри Янгом
+T10	LOC 427 436	Саннивейл
+T11	LOC 443 453	Калифорния
+T12	LOC 455 458	США
+T13	ORG 480 494	Alexa Internet
+T14	ORG 496 501	Yahoo
+T15	TECH 555 563	Интернет
+T1	ORG 0 5	Yahoo
+T2	ORG 6 11	Yahoo

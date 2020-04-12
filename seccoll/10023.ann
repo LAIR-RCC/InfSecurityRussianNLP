@@ -1,0 +1,65 @@
+T1	LOC 0 5	Ирвин
+T2	LOC 7 17	Калифорния
+T3	LOC 19 22	США
+T4	LOC 24 39	Санкт-Петербург
+T6	ORG 77 84	Netwrix
+T7	PROGRAM 201 221	Netwrix Auditor Vega
+T8	ORG 233 240	Netwrix
+T10	PROGRAM 512 532	Netwrix Auditor VEGA
+T14	PER 802 815	Michael Fimin
+T17	PROGRAM 1008 1028	Netwrix Auditor Vega
+T19	ORG 1292 1299	Netwrix
+T20	ORG 1358 1364	Лукойл
+T22	ORG 1393 1407	Alianz Belgium
+T23	ORG 1438 1460	Colombo Stock Exchange
+T24	ORG 1462 1474	Lending Club
+T25	ORG 1480 1495	New York Giants
+T26	PER 1762 1771	John Ross
+T31	ORG 1930 1939	Microsoft
+T32	ORG 1942 1944	HP
+T33	ORG 1947 1953	VMware
+T34	ORG 2012 2019	Netwrix
+T38	ORG 2351 2353	HP
+T40	LOC 2573 2578	Индии
+T42	ORG 2694 2701	Netwrix
+T45	ORG 2879 2898	Wall Street Journal
+T46	PROGRAM 2908 2923	Netwrix Auditor
+T50	EVENT 3139 3155	Best IT Software
+T51	ORG 3166 3173	Netwrix
+T54	EVENT 3367 3375	Auditing
+T55	PROGRAM 3426 3446	Netwrix Auditor Vega
+T56	PER 3586 3596	David Cook
+T59	ORG 3630 3650	West Monroe Partners
+T60	ORG 3652 3655	LLC
+T63	PROGRAM 3953 3973	Netwrix Auditor Vega
+T66	LOC 4369 4372	США
+T67	LOC 4374 4380	России
+T68	LOC 4383 4389	Европе
+T70	PER 4505 4526	Александра Харитонова
+T71	LOC 4551 4557	Россия
+T72	ORG 4560 4563	СНГ
+T74	ORG 839 846	Netwrix
+T13	ORG 4193 4212	Netwrix Corporation
+T9	ORG 1366 1373	Samsung
+T11	ORG 1375 1392	20th Century Fox,
+T12	ORG 1413 1436	City of West Palm Beach
+T15	ORG 1497 1509	SurveyMonkey
+T18	ORG 1812 1819	Netwrix
+T21	PROGRAM 1833 1848	Netwrix Auditor
+T27	PROGRAM 2102 2117	Netwrix Auditor
+T28	PROGRAM 2248 2263	Netwrix Auditor
+T30	ORG 2466 2473	Netwrix
+T36	LOC 2652 2661	Австралии
+T39	ORG 2609 2626	Bluechip Infotech
+T43	EVENT 2958 3001	Network Products Guide 2015 IT World Awards
+T41	EVENT 2723 2754	2015 State of IT Changes Survey
+T44	EVENT 3201 3259	2015 Info Security Products Guide Global Excellence Awards
+T47	PROGRAM 3668 3683	Netwrix Auditor
+T48	ORG 4020 4047	Netwrix Netwrix Corporation
+T52	ORG 4564 4583	Netwrix Corporation
+T35	PROGRAM 2174 2211	HP ArcSight Common Event Format (CEF)
+T37	PROGRAM 2272 2332	HP ArcSight Security Intelligence and Risk Management (SIRM)
+T29	PROGRAM 2431 2446	Netwrix Auditor
+T5	LOC 40 48	(Россия)
+T49	EVENT 3069 3116	IT Products and Services for Enterprise (Large)
+T53	EVENT 3290 3345	Security Products and Solutions for Enterprise (Medium)

@@ -1,0 +1,23 @@
+T1	ORG 6 27	Positive Technologies
+T3	ORG 242 263	Positive Technologies
+T5	ORG 508 515	Gartner
+T7	ORG 1077 1084	Gartner
+T10	ORG 1907 1928	Positive Technologies
+T11	PROGRAM 2001 2010	MaxPatrol
+T15	ORG 2526 2533	Gartner
+T16	ORG 2606 2627	Positive Technologies
+T17	PER 2628 2641	Юрий Максимов
+T18	ORG 2667 2674	Gartner
+T20	ORG 2952 2960	Позитива
+T22	ORG 3163 3170	Gartner
+T23	ORG 3189 3210	Positive Technologies
+T2	PROGRAM 2315 2324	MaxPatrol
+T4	ARTEFACT 396 437	Market Guide for Vulnerability Assessment
+T8	ARTEFACT 3243 3267	Gartner Hype Cycles 2014
+T9	ARTEFACT 3113 3133	VA Market Guide 2014
+T6	TECH 1406 1412	АСУ ТП
+T14	TECH 899 915	(Интернет вещей)
+T21	TECH 816 822	АСУ ТП
+T19	PROGRAM 823 830	(SCADA)
+T12	PROGRAM 1413 1420	(SCADA)
+T13	PROGRAM 2487 2500	SCADA-решения

@@ -1,0 +1,7 @@
+T4	PROGRAM 662 709	NET Framework Could Allow Remote Code Execution
+T1	PROGRAM 24 48	Microsoft .NET Framework
+T2	PROGRAM 49 77	Microsoft .NET Framework 2.0
+T3	PROGRAM 77 105	Microsoft .NET Framework 3.5
+T5	PROGRAM 105 135	Microsoft .NET Framework 3.5.1
+T6	PROGRAM 135 161	Microsoft .NET Framework 4
+T7	PROGRAM 161 189	Microsoft .NET Framework 4.5

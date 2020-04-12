@@ -1,0 +1,7 @@
+T3	PROGRAM 243 260	SuiteLink Service
+T2	VIRUS 195 198	DoS
+T1	PROGRAM 23 42	Invensys Wonderware
+T5	PROGRAM 43 70	InTouch Invensys Wonderware
+T6	PROGRAM 71 98	InTouch 10.1.300 Build 0268
+T4	PROGRAM 100 110	slssvc.exe
+T7	PROGRAM 261 273	(slssvc.exe)

@@ -1,0 +1,30 @@
+T1	PROGRAM 32 72	Microsoft Windows Data Access Components
+T19	PROGRAM 73 117	Microsoft Windows Data Access Components 2.x
+T2	PROGRAM 117 137	Microsoft Windows XP
+T20	PROGRAM 137 159	Microsoft Windows 2003
+T21	PROGRAM 159 182	Microsoft Windows Vista
+T22	PROGRAM 182 204	Microsoft Windows 2008
+T23	PROGRAM 204 223	Microsoft Windows 7
+T5	PROGRAM 487 490	XML
+T6	PROGRAM 843 894	Microsoft Data Access Components 2.8 Service Pack 1
+T7	PROGRAM 898 923	Windows XP Service Pack 3
+T8	PROGRAM 1022 1073	Microsoft Data Access Components 2.8 Service Pack 2
+T9	PROGRAM 1077 1127	Windows XP Professional x64 Edition Service Pack 2
+T25	PROGRAM 1223 1257	Windows Server 2003 Service Pack 2
+T26	PROGRAM 1353 1399	Windows Server 2003 x64 Edition Service Pack 2
+T27	PROGRAM 1495 1549	Windows Server 2003 with SP2 for Itanium-based Systems
+T10	PROGRAM 1648 1682	Windows Data Access Components 6.0
+T11	PROGRAM 1686 1714	Windows Vista Service Pack 2
+T12	PROGRAM 1810 1850	Windows Vista x64 Edition Service Pack 2
+T13	PROGRAM 1946 1999	Windows Server 2008 for 32-bit Systems Service Pack 2
+T14	PROGRAM 2095 2151	Windows Server 2008 for x64-based Systems Service Pack 2
+T15	PROGRAM 2247 2307	Windows Server 2008 for Itanium-based Systems Service Pack 2
+T16	PROGRAM 2403 2431	Windows 7 for 32-bit Systems
+T17	PROGRAM 2527 2570	Windows 7 for 32-bit Systems Service Pack 1
+T18	PROGRAM 2666 2697	Windows 7 for x64-based Systems
+T28	PROGRAM 2793 2839	Windows 7 for x64-based Systems Service Pack 1
+T29	PROGRAM 2935 2979	Windows Server 2008 R2 for x64-based Systems
+T30	PROGRAM 3075 3134	Windows Server 2008 R2 for x64-based Systems Service Pack 1
+T31	PROGRAM 3230 3278	Windows Server 2008 R2 for Itanium-based Systems
+T32	PROGRAM 3374 3437	Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
+T3	PROGRAM 428 467	Microsoft Data Access Components (MDAC)

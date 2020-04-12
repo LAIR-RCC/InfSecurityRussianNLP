@@ -1,0 +1,7 @@
+T1	ORG 10 15	Avaya
+T2	ORG 54 60	Sipera
+T4	VIRUS 287 298	VoIP-угрозы
+T5	ORG 409 414	Cisco
+T6	ORG 648 660	Telepresence
+T3	TECH 97 109	IP-телефонии
+T7	TECH 716 728	IP-телефонии

@@ -1,0 +1,5 @@
+T2	PROGRAM 24 36	Apple Safari
+T3	PROGRAM 37 61	Apple Safari OS X 10.3.9
+T4	TECH 299 303	HTML
+T5	TECH 128 131	XSS
+T1	ARTEFACT 461 571	Apple Safari Javascript Flaw Lets Remote Users Execute Arbitrary Javascript in the Context of the Local Domain

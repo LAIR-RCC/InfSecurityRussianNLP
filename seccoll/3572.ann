@@ -1,0 +1,5 @@
+T1	ORG 23 32	Microsoft
+T2	PROGRAM 33 57	.NET Framework Microsoft
+T3	PROGRAM 58 83	.NET Framework 4Microsoft
+T4	PROGRAM 84 133	.NET Framework 4.5Server Core installation option
+T5	PROGRAM 566 580	.NET Framework

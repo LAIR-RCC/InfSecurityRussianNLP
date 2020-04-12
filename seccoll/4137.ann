@@ -1,0 +1,29 @@
+T1	ORG 6 27	Positive Technologies
+T3	LOC 240 246	России
+T4	ORG 355 376	Positive Technologies
+T5	ORG 388 395	FinCERT
+T6	LOC 442 448	России
+T7	ORG 703 724	Positive Technologies
+T8	PER 725 739	Вадим Соловьев
+T9	LOC 840 846	Европе
+T10	VIRUS 989 1003	GreenDispenser
+T11	LOC 1014 1030	Восточной Европы
+T12	PER 1088 1096	Соловьев
+T13	LOC 1163 1169	России
+T14	VIRUS 1185 1199	GreenDispenser
+T15	VIRUS 1338 1352	GreenDispenser
+T16	LOC 1395 1402	Мексике
+T17	LOC 1461 1467	Европы
+T18	PER 1481 1489	Соловьев
+T19	VIRUS 1714 1728	GreenDispenser
+T20	VIRUS 1829 1843	GreenDispenser
+T23	TECH 2547 2579	Extension for Financial Services
+T25	LOC 3242 3248	Европе
+T27	PER 3311 3325	Вадим Соловьев
+T2	LOC 113 119	Европе
+T21	VIRUS 2343 2357	GreenDispenser
+T22	PROGRAM 2495 2512	Microsoft Windows
+T24	LOC 3296 3299	США
+T26	TECH 2152 2160	PIN-кода
+T28	VIRUS 1786 1792	трояна
+T29	VIRUS 2191 2197	трояна

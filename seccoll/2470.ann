@@ -1,0 +1,25 @@
+T2	ORG 6 27	Positive Technologies
+T3	PROGRAM 134 157	PT Application Firewall
+T4	ORG 243 264	Positive Technologies
+T5	PROGRAM 355 378	PT Application Firewall
+T6	PROGRAM 601 624	PT Application Firewall
+T9	VIRUS 1134 1144	DDoS-атаки
+T10	ORG 1350 1371	Positive Technologies
+T11	PROGRAM 1450 1473	PT Application Firewall
+T14	ORG 1667 1688	Positive Technologies
+T15	ARTEFACT 1725 1747	Gartner Magic Quadrant
+T16	PROGRAM 1842 1864	PT Application Firewal
+T17	ORG 1876 1883	Gartner
+T18	ORG 1907 1928	Positive Technologies
+T20	PER 2611 2626	Максим Филиппов
+T1	PROGRAM 57 77	application firewall
+T7	TECH 871 875	HTTP
+T8	TECH 877 882	HTTPS
+T23	TECH 884 887	SSL
+T24	TECH 889 893	SOAP
+T25	TECH 895 898	XML
+T12	ORG 1553 1560	Gartner
+T13	PROGRAM 2227 2250	PT Application Firewall
+T19	ORG 2637 2658	Positive Technologies
+T21	TECH 2865 2877	SOA-сервисов
+T22	TECH 700 719	(virtual appliance)

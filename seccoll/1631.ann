@@ -1,0 +1,46 @@
+T2	ORG 6 29	Лаборатория Касперского
+T4	ORG 137 146	Microsoft
+T7	ORG 298 307	Microsoft
+T12	PROGRAM 662 675	Siemens WinCC
+T21	VIRUS 1690 1697	Stuxnet
+T23	ORG 1815 1824	Microsoft
+T25	VIRUS 1939 1988	Print Spooler Service Impersonation Vulnerability
+T28	VIRUS 2261 2283	Elevation of Privilege
+T30	ORG 2437 2446	Microsoft
+T32	PER 2573 2589	Александр Гостев
+T33	VIRUS 2684 2691	Stuxnet
+T35	PROGRAM 3044 3063	Simatic WinCC SCADA
+T36	VIRUS 3226 3233	Stuxnet
+T37	PER 3329 3345	Александр Гостев
+T38	ORG 3512 3519	Realtek
+T39	ORG 3522 3529	JMicron
+T1	PROGRAM 31 38	Windows
+T3	VIRUS 52 59	Stuxnet
+T5	PROGRAM 202 219	Microsoft Windows
+T8	PROGRAM 363 380	Microsoft Windows
+T26	ORG 2029 2038	Microsoft
+T9	VIRUS 503 521	Worm.Win32.Stuxnet
+T10	VIRUS 803 821	Worm.Win32.Stuxnet
+T13	VIRUS 1041 1048	Stuxnet
+T14	PROGRAM 1082 1089	Windows
+T17	PROGRAM 1277 1284	Windows
+T43	VIRUS 1321 1328	Stuxnet
+T44	VIRUS 1337 1345	MS08-067
+T19	PROGRAM 1378 1410	Диспетчер печати (Print Spooler)
+T20	PROGRAM 1411 1418	Windows
+T24	PROGRAM 2095 2103	MS10-061
+T45	PROGRAM 2509 2516	Windows
+T34	ORG 2939 2946	Realtek
+T46	ORG 2949 2956	JMicron
+T40	DEVICE 3617 3636	Simatic WinCC SCADA
+T11	TECH 1025 1028	LNK
+T41	TECH 1029 1032	PIF
+T18	VIRUS 1156 1172	Kido (Conficker)
+T29	TECH 2401 2406	(EoP)
+T15	VIRUS 1107 1117	(MS08-067)
+T42	ORG 60 85	"Лаборатория Касперского"
+T6	ORG 221 246	"Лаборатория Касперского"
+T16	ORG 954 979	"Лаборатории Касперского"
+T22	ORG 1779 1804	"Лаборатории Касперского"
+T27	ORG 2169 2194	"Лаборатории Касперского"
+T31	ORG 2547 2572	"Лаборатории Касперского"

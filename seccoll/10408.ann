@@ -1,0 +1,10 @@
+T1	PROGRAM 33 50	Microsoft Windows
+T2	PROGRAM 51 70	Microsoft Windows 7
+T3	PROGRAM 70 89	Microsoft Windows 8
+T4	PROGRAM 89 110	Microsoft Windows 8.1
+T5	PROGRAM 110 130	Microsoft Windows RT
+T6	PROGRAM 130 154	Microsoft Windows RT 8.1
+T7	PROGRAM 154 183	Microsoft Windows Server 2008
+T8	PROGRAM 183 212	Microsoft Windows Server 2012
+T9	PROGRAM 212 235	Microsoft Windows Vista
+T10	PROGRAM 401 420	TS WebProxy Windows

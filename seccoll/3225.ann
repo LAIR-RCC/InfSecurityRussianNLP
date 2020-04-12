@@ -1,0 +1,5 @@
+T1	PROGRAM 0 26	CleanMyPC Registry Cleaner
+T4	PROGRAM 603 610	Windows
+T5	PROGRAM 613 630	Internet Explorer
+T6	PROGRAM 81 88	Windows
+T2	PROGRAM 529 557	BHO (Browser Helping Object)

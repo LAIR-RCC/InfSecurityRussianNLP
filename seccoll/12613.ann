@@ -1,0 +1,15 @@
+T1	ORG 6 29	Лаборатория Касперского
+T2	LOC 144 150	Москве
+T3	ORG 157 180	Лаборатории Касперского
+T5	ORG 1115 1138	Лаборатория Касперского
+T6	ORG 1740 1751	BlackEnergy
+T8	TECH 1930 1936	АСУ ТП
+T12	LOC 2983 2989	Москве
+T15	ORG 4865 4888	Лаборатории Касперского
+T16	LOC 4891 4897	Москве
+T4	ORG 2262 2285	Лаборатория Касперского
+T7	TECH 2071 2111	Industrial DPI (deep package inspection)
+T10	TECH 2324 2337	IndustrialDPI
+T11	TECH 3626 3655	DPI (Deep Package Inspection)
+T13	ORG 4625 4627	ЛК
+T9	TECH 2250 2260	ML-моделей

@@ -1,0 +1,7 @@
+T1	LOC 210 218	Германии
+T2	LOC 221 228	Франции
+T4	ORG 0 11	Bitdefender
+T5	ORG 12 23	BitDefender
+T3	PROGRAM 377 394	Microsoft Windows
+T6	PROGRAM 419 424	Linux
+T7	PROGRAM 427 434	FreeBSD

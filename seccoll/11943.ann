@@ -1,0 +1,12 @@
+T1	PROGRAM 124 131	Mozilla
+T2	ORG 301 320	Mozilla Corporation
+T3	ORG 379 386	Mozilla
+T4	PROGRAM 458 477	Mozilla Thunderbord
+T5	PROGRAM 481 499	Mozilla Messanging
+T6	LOC 536 547	Маунтин-Вью
+T7	LOC 554 564	Калифорния
+T8	LOC 566 569	США
+T9	ORG 0 7	Mozilla
+T10	ORG 8 26	Mozilla Foundation
+T11	ORG 252 270	Mozilla Foundation
+T12	PROGRAM 422 437	Mozilla Firefox

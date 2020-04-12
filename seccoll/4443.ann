@@ -1,0 +1,40 @@
+T1	LOC 0 6	Алматы
+T2	LOC 8 17	Казахстан
+T3	LOC 19 34	Санкт-Петербург
+T4	LOC 36 42	Россия
+T7	ORG 365 372	Adeline
+T12	ORG 833 840	Adeline
+T14	ORG 1256 1263	Netwrix
+T17	LOC 1587 1597	Казахстане
+T18	PER 1610 1624	Анна Ковригина
+T20	ORG 1700 1707	Netwrix
+T22	ORG 1907 1914	Adeline
+T23	LOC 1955 1964	Казахстан
+T24	ORG 2061 2068	Adeline
+T25	PER 2256 2271	Дмитрий Блейзер
+T26	ORG 2295 2302	Netwrix
+T27	LOC 2305 2311	России
+T36	LOC 3150 3156	России
+T37	LOC 3159 3165	Европе
+T40	LOC 3327 3333	Россия
+T43	ORG 3384 3390	E-mail
+T5	ORG 74 81	Netwrix
+T6	LOC 201 211	Казахстане
+T44	ORG 246 253	Adeline
+T45	ORG 259 266	Adeline
+T8	ORG 637 644	Netwrix
+T9	ORG 647 654	Adeline
+T10	ORG 694 709	Netwrix Auditor
+T11	ORG 1429 1436	Netwrix
+T13	ORG 1648 1659	ТОО Adeline
+T15	ORG 2338 2349	Adeline LLP
+T16	ORG 2359 2366	Adeline
+T19	ORG 2796 2803	Netwrix
+T21	ORG 2804 2823	Netwrix Corporation
+T29	ORG 2969 2988	Netwrix Corporation
+T31	LOC 3145 3148	США
+T32	PER 3281 3302	Александра Харитонова
+T33	ORG 3340 3359	Netwrix Corporation
+T34	PROGRAM 3243 3257	www.netwrix.ru
+T28	LOC 3336 3339	СНГ
+T30	LOC 2322 2325	СНГ

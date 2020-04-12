@@ -1,0 +1,34 @@
+T4	PROGRAM 253 263	Pirate Bay
+T5	PROGRAM 305 315	BitTorrent
+T6	ORG 442 452	Pirate Bay
+T7	ORG 491 501	Pirate Bay
+T8	PROGRAM 684 694	BitTorrent
+T9	ORG 745 755	BitTorrent
+T10	PER 768 781	Брэмом Коэном
+T11	PROGRAM 858 868	BitTorrent
+T13	ORG 1000 1010	Pirate Bay
+T14	PROGRAM 1021 1031	BitTorrent
+T15	TECH 1201 1218	BitTorrent-трафик
+T16	PROGRAM 1438 1448	Pirate Bay
+T17	LOC 1565 1575	BitTorrent
+T18	TECH 1599 1606	torrent
+T19	PROGRAM 1795 1805	BitTorrent
+T20	ORG 1860 1870	Pirate Bay
+T21	PROGRAM 1958 1968	Pirate Bay
+T22	LOC 2002 2008	Швеции
+T23	ORG 2102 2125	Пиратская партия Швеции
+T24	LOC 2153 2159	Швеции
+T31	ORG 2711 2725	Партии пиратов
+T33	ORG 3098 3116	шведский парламент
+T1	PROGRAM 6 16	Pirate Bay
+T2	PROGRAM 18 28	BitTorrent
+T3	TECH 53 56	P2P
+T35	PROGRAM 82 92	Pirate Bay
+T12	ORG 872 882	Pirate Bay
+T37	TECH 1559 1563	.p2p
+T38	TECH 1679 1683	.p2p
+T39	TECH 1686 1694	.torrent
+T25	LOC 2307 2313	Швеции
+T28	ORG 3120 3130	Pirate Bay
+T26	ORG 2379 2438	WIPO (Всемирная организация интеллектуальной собственности)
+T27	ORG 2441 2477	ВТО (Всемирная торговая организация)

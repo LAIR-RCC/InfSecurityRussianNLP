@@ -1,0 +1,12 @@
+T3	ORG 198 206	Стафкопа
+T5	PROGRAM 278 286	LanAgent
+T6	PROGRAM 407 415	LanAgent
+T7	PROGRAM 470 480	Касперский
+T8	PROGRAM 483 491	Симантек
+T10	ORG 565 573	Стафкопа
+T11	PROGRAM 619 627	LanAgent
+T12	PROGRAM 682 692	Касперский
+T13	PROGRAM 695 703	Симантек
+T1	PER 7 21	Pavel Shuteyev
+T15	PROGRAM 39 51	Staffcop 3.3
+T2	PER 250 264	Pavel Shuteyev

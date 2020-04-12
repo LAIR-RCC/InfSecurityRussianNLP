@@ -1,0 +1,7 @@
+T1	PROGRAM 23 40	Microsoft Windows
+T4	PROGRAM 41 61	Microsoft Windows XP
+T5	PROGRAM 61 83	Microsoft Windows 2003
+T6	PROGRAM 83 106	Microsoft Windows Vista
+T7	PROGRAM 106 128	Microsoft Windows 2008
+T8	PROGRAM 128 147	Microsoft Windows 7
+T2	ARTEFACT 547 636	MS12-055: Vulnerability in Windows Kernel-Mode Drivers Could Allow Elevation of Privilege

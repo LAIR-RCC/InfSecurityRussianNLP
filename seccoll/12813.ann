@@ -1,0 +1,57 @@
+T2	PROGRAM 99 114	Netwrix Auditor
+T6	LOC 566 572	Москва
+T7	LOC 574 585	Владивосток
+T8	LOC 588 594	Казань
+T11	TECH 931 947	Active Directory
+T13	ORG 1171 1180	ИТ-систем
+T14	ORG 1456 1458	AD
+T15	PER 1552 1567	Дмитрий Блейзер
+T16	ORG 1591 1598	Netwrix
+T17	LOC 1601 1607	России
+T18	ORG 1618 1621	СНГ
+T20	PROGRAM 1757 1772	Netwrix Auditor
+T21	ORG 1869 1885	Active Directory
+T22	PROGRAM 2155 2170	Netwrix Auditor
+T23	PROGRAM 2472 2487	Netwrix Auditor
+T24	TECH 2757 2773	Active Directory
+T26	ORG 2927 2934	Netwrix
+T27	PER 2971 2986	Алексей Митюшов
+T29	ORG 3103 3130	Netwrix Netwrix Corporation
+T30	LOC 3416 3419	США
+T31	LOC 3421 3427	России
+T32	LOC 3430 3436	Европе
+T36	ORG 3751 3763	Аэроэкспресс
+T39	LOC 3915 3920	Лобня
+T40	LOC 3973 3985	Владивостоке
+T41	LOC 4048 4055	Кневичи
+T42	EVENT 4119 4163	XXVII Всемирной летней Универсиады 2013 года
+T43	LOC 4169 4175	Казани
+T45	LOC 4359 4365	Москвы
+T46	PER 4542 4563	Александра Харитонова
+T47	LOC 4588 4594	Россия
+T48	LOC 4595 4598	СНГ
+T1	ORG 9 21	Аэроэкспресс
+T49	TECH 47 63	Active Directory
+T4	ORG 292 305	Аэроэкспреесс
+T3	LOC 458 460	РФ
+T5	ORG 434 457	Министерства транспорта
+T10	ORG 596 608	Аэроэкспресс
+T12	TECH 1017 1019	AD
+T35	TECH 1340 1342	AD
+T50	TECH 1132 1148	Active Directory
+T51	ORG 1503 1515	Аэроэкспресс
+T19	ORG 1646 1658	Аэроэкспресс
+T25	PROGRAM 2810 2825	Netwrix Auditor
+T52	TECH 2846 2849	SQL
+T28	ORG 3057 3069	Аэроэкспресс
+T53	ORG 3240 3259	Netwrix Corporation
+T33	ORG 3534 3546	Аэроэкспресс
+T54	ORG 3547 3559	Аэроэкспресс
+T34	LOC 3725 3745	Российской Федерации
+T55	ORG 3701 3724	Министерства транспорта
+T37	LOC 3832 3861	Московского авиационного узла
+T56	LOC 3863 3870	Внуково
+T38	LOC 3872 3882	Домодедово
+T57	LOC 3885 3896	Шереметьево
+T44	ORG 4202 4214	Аэроэкспресс
+T9	ORG 618 713	Международную ассоциацию интермодальных перевозчиков International Air Rail Organization (IARO)

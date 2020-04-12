@@ -1,0 +1,31 @@
+T2	PROGRAM 71 76	Vista
+T3	ORG 114 123	Microsoft
+T5	PROGRAM 486 491	Vista
+T6	ORG 529 538	Microsoft
+T8	ORG 1065 1074	Microsoft
+T12	PROGRAM 1523 1528	Vista
+T13	PER 1766 1773	Ярзабик
+T15	DEVICE 2189 2204	Lenovo ThinkPad
+T16	ORG 2651 2660	Microsoft
+T19	PER 2981 2996	Джеффри Ярзабик
+T1	PROGRAM 6 19	Windows Vista
+T23	PROGRAM 21 24	SP1
+T4	PROGRAM 251 264	Windows Vista
+T24	PROGRAM 326 329	SP1
+T25	PROGRAM 584 597	Windows Vista
+T9	PROGRAM 1106 1134	Windows Vista Service Pack 1
+T7	PROGRAM 955 967	Home Premium
+T26	PROGRAM 970 978	Ultimate
+T11	ORG 1308 1326	Matocha Associates
+T28	PROGRAM 1627 1636	Vista SP1
+T29	PROGRAM 2477 2490	Windows Vista
+T30	PROGRAM 1918 1921	SP1
+T22	PROGRAM 3041 3054	Windows Vista
+T18	PROGRAM 2726 2740	Service Pack 1
+T20	ORG 3256 3299	Tamiyasu, Smith, Horn and Braun Accountancy
+T21	PROGRAM 3224 3229	Linux
+T32	PROGRAM 3359 3372	Windows Vista
+T10	PER 1260 1294	Джеффри Ярзабик (Jeffrey Jarzabek)
+T27	PER 3300 3329	Сьюзан Брэдли (Susan Bradley)
+T17	PER 2661 2681	Майк Нэш (Mike Nash)
+T14	PROGRAM 2151 2167	[Service Pack 1]

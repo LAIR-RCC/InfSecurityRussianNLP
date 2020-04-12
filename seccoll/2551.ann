@@ -1,0 +1,16 @@
+T2	ORG 153 170	Developer VKB Inc
+T12	DEVICE 2289 2321	iTECH Bluetooth Virtual Keyboard
+T16	DEVICE 2417 2425	NeoDrive
+T18	ORG 2591 2608	Developer VKB Inc
+T1	DEVICE 0 32	iTECH Bluetooth Virtual Keyboard
+T4	TECH 995 1004	Bluetooth
+T5	TECH 1058 1067	Bluetooth
+T6	DEVICE 1953 1985	iTECH Bluetooth Virtual Keyboard
+T7	DEVICE 2062 2082	Bluetooth-клавиатуры
+T8	DEVICE 2356 2388	iTECH Bluetooth Virtual Keyboard
+T9	DEVICE 2437 2445	NeoDrive
+T3	TECH 3411 3420	Bluetooth
+T10	TECH 3474 3483	Bluetooth
+T11	DEVICE 4439 4459	Bluetooth-клавиатуры
+T13	TECH 269 288	Лазерная клавиатура
+T14	TECH 2705 2724	Лазерная клавиатура

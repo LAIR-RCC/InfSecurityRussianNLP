@@ -1,0 +1,38 @@
+T1	LOC 257 263	Москве
+T3	ORG 387 402	Digital October
+T4	LOC 657 663	Москве
+T5	LOC 667 673	Тунисе
+T11	LOC 1273 1279	Тунисе
+T13	EVENT 1370 1384	PHDays Tunisia
+T14	LOC 1507 1513	Туниса
+T15	EVENT 1540 1546	PHDays
+T16	LOC 1549 1555	Тунисе
+T17	LOC 1620 1627	Москвой
+T18	HACKER_GROUP 1791 1794	CTF
+T19	HACKER_GROUP 1864 1877	ForbiddenBits
+T20	HACKER_GROUP 1901 1904	CTF
+T21	LOC 1943 1949	Туниса
+T22	LOC 1960 1966	Москве
+T24	LOC 2026 2032	Туниса
+T25	HACKER_GROUP 2131 2140	Anonymous
+T26	LOC 2393 2399	Туниса
+T27	HACKER_GROUP 2637 2654	CTF ForbiddenBits
+T28	PER 2688 2695	Марвина
+T29	ORG 2816 2819	CTF
+T30	LOC 2939 2945	Москву
+T31	EVENT 3018 3024	PHDays
+T33	LOC 3089 3095	России
+T34	LOC 3098 3104	Европе
+T35	LOC 3113 3119	Тунисе
+T36	PER 3177 3193	Хэйзему Эль Миру
+T37	LOC 3241 3247	Туниса
+T39	EVENT 102 119	PHDays Everywhere
+T40	EVENT 502 519	PHDays Everywhere
+T7	ORG 880 890	SecuriNets
+T8	ORG 914 1027	Профессиональной ассоциации по информационной безопасности (Information Security Professional Association. APSIT)
+T9	ORG 1231 1241	SecuriNets
+T12	EVENT 2328 2345	PHDays Everywhere
+T2	EVENT 317 340	Positive Hack Days 2012
+T6	ORG 710 824	Национальном институте прикладной науки и технологии (National Institute of Applied Science and Technology, INSAT)
+T10	PER 1968 1982	Хэйзем Эль Мир
+T23	EVENT 3261 3272	PHDays 2012

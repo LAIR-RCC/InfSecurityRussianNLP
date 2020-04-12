@@ -1,0 +1,17 @@
+T7	ORG 1058 1066	Bitfinex
+T10	ORG 2454 2462	Bitfinex
+T25	ORG 5811 5831	Greenwich Associates
+T26	TECH 11 19	блокчейн
+T2	ORG 215 235	Greenwich Associates
+T3	ARTEFACT 654 716	Обеспечение безопасности блокчейна (Securing the Blockchain -)
+T5	ORG 2072 2080	Bitfinex
+T6	TECH 2340 2349	блокчейна
+T9	ORG 4015 4018	DAO
+T12	ORG 5093 5145	Альянса смарт-контрактов (Smart Contracts Alliance )
+T14	ORG 5150 5219	Электронной торгово-промышленной палате (Chamber of Digital Commerce)
+T1	TECH 99 135	(Distributed Ledger Technology, DLT)
+T8	TECH 1723 1735	multi-sig ()
+T11	TECH 1757 1772	(cold storage )
+T4	TECH 1580 1606	(permissioned blockchains)
+T13	PROGRAM 2550 2568	Ethereum (Эфириум)
+T15	PROGRAM 4049 4056	Эфириум

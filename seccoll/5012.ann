@@ -1,0 +1,11 @@
+T2	DEVICE 108 123	ARM-процессоров
+T3	PROGRAM 176 196	Windows-приложениями
+T4	DEVICE 232 249	Microsoft Surface
+T5	PROGRAM 283 293	Windows RT
+T8	PROGRAM 481 501	Internet Explorer 10
+T1	PROGRAM 0 10	Windows RT
+T9	PROGRAM 11 21	Windows RT
+T10	PROGRAM 54 63	Windows 8
+T6	PROGRAM 361 376	Windows Runtime
+T11	PROGRAM 416 421	Metro
+T7	PROGRAM 439 460	Microsoft Office 2013

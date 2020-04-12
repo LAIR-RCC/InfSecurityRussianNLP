@@ -1,0 +1,35 @@
+T1	PROGRAM 27 54	Microsoft Internet Explorer
+T22	TECH 316 320	HTML
+T23	PROGRAM 55 84	Microsoft Internet Explorer 8
+T24	PROGRAM 84 113	Microsoft Internet Explorer 9
+T2	VIRUS 519 522	XSS
+T25	PROGRAM 567 579	toStaticHTML
+T3	TECH 1051 1054	URL
+T4	PROGRAM 1178 1203	Windows XP Service Pack 3
+T26	PROGRAM 1298 1348	Windows XP Professional x64 Edition Service Pack 2
+T5	PROGRAM 1443 1477	Windows Server 2003 Service Pack 2
+T6	PROGRAM 1572 1618	Windows Server 2003 x64 Edition Service Pack 2
+T7	PROGRAM 1713 1741	Windows Vista Service Pack 2
+T8	PROGRAM 1836 1876	Windows Vista x64 Edition Service Pack 2
+T9	PROGRAM 1971 2024	Windows Server 2008 for 32-bit Systems Service Pack 2
+T10	PROGRAM 2119 2175	Windows Server 2008 for x64-based Systems Service Pack 2
+T27	PROGRAM 2270 2298	Windows 7 for 32-bit Systems
+T11	PROGRAM 2393 2436	Windows 7 for 32-bit Systems Service Pack 1
+T28	PROGRAM 2531 2561	Windows 7 for x64-based System
+T12	PROGRAM 2657 2703	Windows 7 for x64-based Systems Service Pack 1
+T29	PROGRAM 2798 2842	Windows Server 2008 R2 for x64-based Systems
+T13	PROGRAM 3091 3139	Windows Server 2008 R2 for Itanium-based Systems
+T30	PROGRAM 2937 2996	Windows Server 2008 R2 for x64-based Systems Service Pack 1
+T14	PROGRAM 3234 3297	Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
+T31	PROGRAM 3392 3411	Internet Explorer 9
+T32	PROGRAM 3412 3440	Windows Vista Service Pack 2
+T15	PROGRAM 3535 3575	Windows Vista x64 Edition Service Pack 2
+T16	PROGRAM 3670 3723	Windows Server 2008 for 32-bit Systems Service Pack 2
+T17	PROGRAM 3818 3874	Windows Server 2008 for x64-based Systems Service Pack 2
+T33	PROGRAM 3969 3997	Windows 7 for 32-bit Systems
+T18	PROGRAM 4092 4135	Windows 7 for 32-bit Systems Service Pack 1
+T34	PROGRAM 4230 4261	Windows 7 for x64-based Systems
+T19	PROGRAM 4356 4402	Windows 7 for x64-based Systems Service Pack 1
+T35	PROGRAM 4497 4541	Windows Server 2008 R2 for x64-based Systems
+T20	PROGRAM 4636 4695	Windows Server 2008 R2 for x64-based Systems Service Pack 1
+T21	ARTEFACT 4798 4856	MS12-037: Cumulative Security Update for Internet Explorer

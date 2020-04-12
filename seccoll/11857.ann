@@ -1,0 +1,15 @@
+T1	LOC 124 130	России
+T3	PER 534 545	А. Лукацкий
+T4	ARTEFACT 560 592	Варшавскую и Чикагскую конвенции
+T5	LOC 2054 2060	России
+T6	LOC 2241 2247	России
+T7	ORG 2269 2282	T-Systems CIS
+T8	ORG 2291 2307	Deutsche Telekom
+T9	ORG 2311 2335	Orange Business Services
+T10	LOC 3882 3888	России
+T11	LOC 3960 3966	России
+T12	PER 4185 4205	Дмитрием Мариничевым
+T2	TECH 3968 3971	ERP
+T13	TECH 3976 3979	CRM
+T14	ARTEFACT 180 186	242-ФЗ
+T15	ARTEFACT 1242 1248	242-ФЗ

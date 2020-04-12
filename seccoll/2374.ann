@@ -1,0 +1,11 @@
+T2	VIRUS 10 13	APT
+T6	ORG 356 362	McAfee
+T8	PER 798 811	Насима Талеба
+T1	VIRUS 15 42	advanced persistent threats
+T15	VIRUS 70 78	zero-day
+T16	VIRUS 80 98	атаки нулевого дня
+T3	ORG 251 258	X-Force
+T4	ORG 286 289	IBM
+T7	ARTEFACT 812 825	Черный лебедь
+T9	ARTEFACT 828 852	Одураченные случайностью
+T5	ORG 292 324	GTI (global threat intelligence)

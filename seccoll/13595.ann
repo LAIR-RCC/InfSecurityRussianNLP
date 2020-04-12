@@ -1,0 +1,4 @@
+T2	ARTEFACT 613 699	MS12-051: Vulnerability in Microsoft Office for Mac Could Allow Elevation of Privilege
+T5	PROGRAM 23 47	Microsoft Office for Mac
+T6	PROGRAM 48 77	Microsoft Office for Mac 2011
+T3	PROGRAM 481 510	Microsoft Office for Mac 2011

@@ -1,0 +1,63 @@
+T1	ORG 6 20	Panda Security
+T2	TECH 30 38	Mariposa
+T3	ORG 48 62	Panda Security
+T4	ORG 85 105	Defence Intelligence
+T5	ORG 270 284	Panda Security
+T6	ORG 287 307	Defence Intelligence
+T7	TECH 329 337	Mariposa
+T9	TECH 530 538	Mariposa
+T10	LOC 979 982	США
+T11	ORG 1001 1008	Fortune
+T12	TECH 1095 1103	Mariposa
+T13	ORG 1225 1239	Panda Security
+T14	ORG 1241 1261	Defence Intelligence
+T15	ORG 1263 1266	ФБР
+T17	PER 1416 1431	Кристофер Дэвис
+T18	ORG 1457 1477	Defence Intelligence
+T19	ORG 1536 1543	Fortune
+T20	TECH 1648 1656	Mariposa
+T21	ORG 1696 1704	Mariposa
+T22	ORG 1720 1734	Panda Security
+T23	ORG 1736 1756	Defence Intelligence
+T24	ORG 1759 1799	Georgia Tech Information Security Center
+T28	PER 2314 2324	Хуан Салом
+T30	ORG 2451 2456	CDmon
+T31	PER 2726 2742	Педро Бустаманте
+T32	ORG 2772 2786	Panda Security
+T33	ORG 2863 2871	Mariposa
+T34	ORG 3336 3344	Mariposa
+T35	TECH 3394 3402	Mariposa
+T36	VIRUS 3692 3696	Zeus
+T37	VIRUS 3710 3718	Koobface
+T38	VIRUS 3726 3739	Google/Aurora
+T39	TECH 3798 3806	Mariposa
+T40	ORG 3815 3829	Panda Security
+T41	TECH 4119 4127	Mariposa
+T42	ORG 4141 4155	Panda Security
+T44	ORG 4302 4306	Zeus
+T45	ORG 4832 4835	MSN
+T46	PER 4837 4848	Дэйв Дэйгон
+T47	ORG 4852 4892	Georgia Tech Information Security Center
+T48	ORG 5052 5060	Mariposa
+T49	TECH 5149 5157	Mariposa
+T51	PER 5590 5595	Дэвис
+T52	ORG 5714 5728	Panda Security
+T53	ORG 5731 5751	Defence Intelligence
+T54	TECH 235 243	Mariposa
+T8	ORG 511 514	ФБР
+T55	LOC 515 518	США
+T57	TECH 1328 1336	Mariposa
+T58	VIRUS 3698 3707	Conficker
+T43	TECH 4180 4188	Mariposa
+T50	ORG 5302 5323	Defence Intelligence.
+T26	HACKER 2075 2085	"Ostiator"
+T27	HACKER 2088 2103	"Johnyloleante"
+T25	HACKER 1996 2006	"Netkairo"
+T59	VIRUS 5284 5294	DDoS-атака
+T60	HACKER 2011 2023	"hamlet1917"
+T16	ORG 1306 1321	(Guardia Civil)
+T29	ORG 2410 2425	(Guardia Civil)
+T61	TECH 4800 4803	P2P
+T62	DEVICE 4811 4822	USB-приводы
+T63	TECH 4746 4754	Mariposa
+T64	TECH 4494 4509	pay-per-install

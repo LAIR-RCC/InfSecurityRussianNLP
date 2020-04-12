@@ -1,0 +1,35 @@
+T2	ORG 47 58	Trend Micro
+T3	PER 71 84	Стивом Ченгом
+T4	ORG 444 455	Trend Micro
+T5	LOC 472 477	Токио
+T8	ORG 685 696	Trend Micro
+T18	ORG 2073 2084	Trend Micro
+T1	ORG 10 33	Trend Micro Corporation
+T20	ORG 3366 3377	Trend Micro
+T7	PROGRAM 701 752	Trend Micro InterScan VirusWall_ Enterprise Edition
+T9	PROGRAM 752 835	Trend MicroInterScan Messaging Security Suite & InterScan Web Security Suite Bundle
+T10	PROGRAM 835 871	Trend Micro Spam Prevention Solution
+T11	PROGRAM 871 917	Trend Micro Email Reputation Services Standard
+T22	PROGRAM 1040 1095	Trend Micro InterScan Messaging Security Suite Standard
+T23	PROGRAM 1095 1150	Trend Micro InterScan Messaging Security Suite Standard
+T24	PROGRAM 1832 1872	Trend Micro Worry-Free Business Security
+T13	PROGRAM 1279 1322	Trend Micro ScanMail Suite for Lotus Domino
+T15	PROGRAM 1322 1347	Trend Micro PortalProtect
+T25	PROGRAM 1347 1388	Trend Micro ServerProtect for File Server
+T26	PROGRAM 1388 1432	Trend Micro ServerProtect for Storage Server
+T27	PROGRAM 1432 1477	Trend Micro OfficeScan Client/Server Standard
+T28	PROGRAM 1477 1530	Trend Micro Client Server Messaging Suite_ Enterprise
+T30	PROGRAM 1150 1237	Trend Micro Instant Messaging Security for Microsoft Office Communications Server (OCS)
+T16	PROGRAM 1892 1926	Trend Micro Internet Security 2010
+T12	PROGRAM 1237 1279	Trend Micro ScanMail Suite for MS Exchange
+T14	PROGRAM 623 642	shop.globaltrust.ru
+T6	LOC 478 486	(Япония)
+T17	PROGRAM 917 976	Trend Micro Email Reputation Services Standard RBL+ Service
+T19	PROGRAM 976 1040	Trend Micro Email Reputation Services Advanced Anti-Spam Service
+T21	PROGRAM 1530 1571	Trend Micro NeaTSuite_ Enterprise Edition
+T29	PROGRAM 1602 1636	Trend Micro Damage Cleanup Service
+T31	PROGRAM 1636 1688	Trend Micro Control Manager Enterprise TMCM Advanced
+T32	PROGRAM 1688 1748	Trend Micro Enterprise Protection Strategy Bundle EPS-Bundle
+T33	PROGRAM 1748 1783	Trend Micro InterScan VirusWall_SMB
+T34	PROGRAM 1783 1822	Trend MicroWorry-Free Business Security
+T35	PROGRAM 1571 1602	Trend Micro Outbreak Prevention

@@ -1,0 +1,8 @@
+T3	PROGRAM 775 789	Windows Server
+T2	PROGRAM 749 770	Kaspersky Security 10
+T4	PROGRAM 798 818	Kaspersky Anti-Virus
+T5	PROGRAM 823 856	Windows Server Enterprise Edition
+T1	PROGRAM 2775 2802	Kaspersky Endpoint Security
+T6	TECH 2889 2907	Мониторинг системы
+T9	TECH 2912 2926	System Watcher
+T7	TECH 2024 2038	(Default Deny)

@@ -1,0 +1,38 @@
+T1	TECH 246 250	DCOM
+T3	TECH 340 343	RPC
+T7	PROGRAM 828 838	Windows NT
+T14	PROGRAM 1326 1335	Помощника
+T21	PROGRAM 2664 2668	DCOM
+T23	TECH 2757 2760	RPC
+T26	PROGRAM 3240 3250	Windows NT
+T31	PROGRAM 3730 3739	Помощника
+T37	PROGRAM 22 27	винда
+T38	PROGRAM 466 481	Диспетчер задач
+T10	PROGRAM 1026 1044	Управление дисками
+T11	PROGRAM 1242 1246	COM+
+T12	PROGRAM 1283 1297	MS Office 2000
+T13	PROGRAM 1729 1739	explorer'а
+T16	PROGRAM 2091 2098	Windows
+T17	PROGRAM 2443 2448	винда
+T27	PROGRAM 3434 3452	Управление дисками
+T28	PROGRAM 3647 3651	COM+
+T29	PROGRAM 3687 3701	MS Office 2000
+T30	PROGRAM 4129 4139	explorer'а
+T33	PROGRAM 4489 4496	Windows
+T34	PER 4757 4780	AndreyMust19securitylab
+T6	PROGRAM 414 433	"Службы терминалов"
+T9	PROGRAM 911 944	"Запуск серверных процессов DCOM"
+T4	PROGRAM 364 394	"Удаленный вызов RPC-процедур"
+T2	PROGRAM 295 328	"Запуск серверных процессов DCOM"
+T8	PROGRAM 886 895	"Справки"
+T5	PROGRAM 562 582	"Смена пользователя"
+T15	PROGRAM 1908 1941	"Запуск серверных процессов DCOM"
+T32	PROGRAM 4307 4340	"Запуск серверных процессов DCOM"
+T20	PROGRAM 3322 3355	"Запуск серверных процессов DCOM"
+T19	PROGRAM 3298 3307	"Справки"
+T25	PROGRAM 2830 2849	"Службы терминалов"
+T18	PROGRAM 2976 2996	"Смена пользователя"
+T24	PROGRAM 2781 2811	"Удаленный вызов RPC-процедур"
+T22	PROGRAM 2713 2746	"Запуск серверных процессов DCOM"
+T35	PROGRAM 1013 1023	(dfrg.msc)
+T36	PROGRAM 1045 1059	(diskmgmt.msc)

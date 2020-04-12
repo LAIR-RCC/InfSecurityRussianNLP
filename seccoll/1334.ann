@@ -1,0 +1,9 @@
+T1	ORG 83 89	Google
+T2	DEVICE 193 196	ARM
+T3	PROGRAM 0 9	Chrome OS
+T4	PROGRAM 266 279	Google Chrome
+T5	PROGRAM 10 52	Chrome OS (Google Chrome Operating System)
+T6	PROGRAM 206 215	Chrome OS
+T7	PROGRAM 234 239	Linux
+T8	PROGRAM 415 426	Chromium OS
+T9	PROGRAM 473 489	Google Chrome OS

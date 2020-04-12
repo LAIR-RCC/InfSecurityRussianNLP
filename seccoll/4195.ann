@@ -1,0 +1,34 @@
+T1	PROGRAM 32 49	Microsoft Windows
+T2	PROGRAM 50 69	Microsoft Windows 7
+T18	PROGRAM 69 117	Microsoft Windows Server 2003 Datacenter Edition
+T19	PROGRAM 117 165	Microsoft Windows Server 2003 Enterprise Edition
+T3	PROGRAM 165 211	Microsoft Windows Server 2003 Standard Edition
+T21	PROGRAM 252 281	Microsoft Windows Server 2008
+T22	PROGRAM 281 318	Microsoft Windows Storage Server 2003
+T23	PROGRAM 318 341	Microsoft Windows Vista
+T24	PROGRAM 341 374	Microsoft Windows XP Home Edition
+T25	PROGRAM 374 407	Microsoft Windows XP Professional
+T4	PROGRAM 557 569	explorer.exe
+T27	PROGRAM 856 881	Windows XP Service Pack 3
+T29	PROGRAM 976 1026	Windows XP Professional x64 Edition Service Pack 2
+T30	PROGRAM 1121 1155	Windows Server 2003 Service Pack 2
+T6	PROGRAM 1250 1296	Windows Server 2003 x64 Edition Service Pack 2
+T7	PROGRAM 1391 1445	Windows Server 2003 with SP2 for Itanium-based Systems
+T34	PROGRAM 1540 1568	Windows Vista Service Pack 2
+T36	PROGRAM 1663 1703	Windows Vista x64 Edition Service Pack 2
+T8	PROGRAM 1798 1851	Windows Server 2008 for 32-bit Systems Service Pack 2
+T9	PROGRAM 1946 2002	Windows Server 2008 for x64-based Systems Service Pack 2
+T10	PROGRAM 2097 2157	Windows Server 2008 for Itanium-based Systems Service Pack 2
+T41	PROGRAM 2252 2280	Windows 7 for 32-bit Systems
+T11	PROGRAM 2375 2418	Windows 7 for 32-bit Systems Service Pack 1
+T44	PROGRAM 2513 2544	Windows 7 for x64-based Systems
+T45	PROGRAM 211 252	Microsoft Windows Server 2003 Web Edition
+T12	PROGRAM 2639 2685	Windows 7 for x64-based Systems Service Pack 1
+T47	PROGRAM 2780 2824	Windows Server 2008 R2 for x64-based Systems
+T13	PROGRAM 2919 2978	Windows Server 2008 R2 for x64-based Systems Service Pack 1
+T15	PROGRAM 3073 3121	Windows Server 2008 R2 for Itanium-based Systems
+T17	PROGRAM 3216 3279	Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
+T50	PROGRAM 3374 3427	Windows Server 2008 for 32-bit Systems Service Pack 2
+T52	PROGRAM 3522 3578	Windows Server 2008 for x64-based Systems Service Pack 2
+T54	PROGRAM 3673 3717	Windows Server 2008 R2 for x64-based Systems
+T56	PROGRAM 3812 3871	Windows Server 2008 R2 for x64-based Systems Service Pack 1

@@ -1,0 +1,5 @@
+T1	TECH 0 7	PIN-код
+T2	TECH 8 77	PIN-код (Personal Identification Number личный опознавательный номер)
+T3	TECH 193 200	PIN-код
+T4	TECH 265 272	PIN-код
+T5	DEVICE 327 335	sim-карт

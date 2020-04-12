@@ -1,0 +1,63 @@
+T3	PROGRAM 1120 1137	Internet Security
+T20	PROGRAM 2585 2611	F-Secure Internet Security
+T21	PROGRAM 2788 2824	Avira AntiVir Premium Security Suite
+T23	PROGRAM 3123 3144	AVG Internet Security
+T24	PROGRAM 3320 3344	G DATA Internet Security
+T25	PROGRAM 3363 3392	BitDefender Internet Security
+T26	PROGRAM 3542 3569	Kaspersky Internet Security
+T28	PROGRAM 3602 3631	Microsoft Security Essentials
+T29	PROGRAM 3633 3662	Trend Micro Internet Security
+T30	PROGRAM 3835 3854	Eset Smart Security
+T31	PROGRAM 3864 3890	PC Tools Internet Security
+T32	PROGRAM 3900 3921	Dr.Web Security Space
+T33	PROGRAM 3955 3978	Panda Internet Security
+T34	PROGRAM 3988 4014	Outpost Security Suite Pro
+T35	PROGRAM 4464 4490	F-Secure Internet Security
+T36	PROGRAM 4492 4509	Sophos Anti-Virus
+T37	PROGRAM 4511 4532	AVG Internet Security
+T38	PROGRAM 4534 4570	Avira AntiVir Premium Security Suite
+T39	PROGRAM 4572 4596	Comodo Internet Security
+T41	PROGRAM 4810 4831	Dr.Web Security Space
+T42	PROGRAM 4862 4885	Avast Internet Security
+T43	PROGRAM 5017 5044	Kaspersky Internet Security
+T44	PROGRAM 5046 5070	ZoneAlarm Security Suite
+T45	PROGRAM 5072 5101	Microsoft Security Essentials
+T46	PROGRAM 5103 5132	Trend Micro Internet Security
+T47	PROGRAM 5429 5449	Kaspersky Anti-Virus
+T48	PROGRAM 5459 5483	G DATA Internet Security
+T49	PROGRAM 5493 5522	BitDefender Internet Security
+T50	PROGRAM 5532 5568	Avira AntiVir Premium Security Suite
+T51	PROGRAM 5579 5602	Avast Internet Security
+T52	PROGRAM 5643 5667	Norton Internet Security
+T53	PROGRAM 6 18	Anti-Malware
+T1	ORG 44 117	Российский независимый информационно-аналитический портал Anti-Malware.ru
+T2	ORG 194 267	Российский независимый информационно-аналитический портал Anti-Malware.ru
+T10	PROGRAM 1360 1383	Eset Smart Security 4.0
+T9	PROGRAM 1331 1356	Dr.Web Security Space 6.0
+T8	PROGRAM 1299 1327	Comodo Internet Security 4.0
+T7	PROGRAM 1261 1295	BitDefender Internet Security 2010
+T6	PROGRAM 1217 1257	Avira AntiVir Premium Security Suite 9.0
+T5	PROGRAM 1188 1213	AVG Internet Security 9.0
+T4	PROGRAM 1157 1184	Avast Internet Security 5.0
+T54	PROGRAM 1387 1418	F-Secure Internet Security 2010
+T11	PROGRAM 1422 1451	G DATA Internet Security 2010
+T12	PROGRAM 1456 1488	Kaspersky Internet Security 2010
+T13	PROGRAM 1493 1526	Microsoft Security Essentials 1.0
+T14	PROGRAM 1531 1560	Norton Internet Security 2010
+T15	PROGRAM 1565 1596	Outpost Security Suite Pro 2009
+T16	PROGRAM 1609 1637	Panda Internet Security 2010
+T55	PROGRAM 1642 1673	PC Tools Internet Security 2010
+T17	PROGRAM 1678 1699	Sophos Anti-Virus 9.0
+T18	PROGRAM 1704 1738	Trend Micro Internet Security 2010
+T56	PROGRAM 1743 1762	VBA32 Personal 3.12
+T19	PROGRAM 1767 1796	ZoneAlarm Security Suite 2010
+T57	PROGRAM 1851 1865	Windows XP SP3
+T22	PROGRAM 2955 2972	Sophos Anti-Virus
+T58	PROGRAM 3009 3033	Comodo Internet Security
+T27	PROGRAM 3571 3600	ZoneAlarm Security Suite 2010
+T59	PROGRAM 3665 3692	Avast Internet Security 5.0
+T60	PROGRAM 3781 3805	Norton Internet Security
+T61	PROGRAM 3931 3945	VBA32 Personal
+T40	PROGRAM 4757 4783	Outpost Security Suite Pro
+T62	PROGRAM 4785 4808	Panda Internet Security
+T63	PROGRAM 4833 4859	PC Tools Internet Security

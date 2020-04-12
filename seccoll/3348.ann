@@ -1,0 +1,13 @@
+T6	ORG 662 665	DIN
+T11	LOC 1325 1334	Евросоюза
+T13	ORG 1469 1472	VDE
+T24	ORG 3318 3325	VDE/DKE
+T25	ORG 3328 3331	DIN
+T7	PROGRAM 786 835	Deutsche Normungs-Roadmap IT-Sicherheit Version 3
+T12	ORG 3513 3516	DIN
+T14	ORG 3519 3526	VDE/DKE
+T8	PROGRAM 1481 1491	"CERT@VDE"
+T9	PER 1622 1653	Андреас Харнер (Andreas Harner)
+T2	ORG 224 316	контактной группы по информационной безопасности (Kontaktstelle Informationssicherheit, KSI)
+T1	ORG 321 548	Германской комиссии по электротехнике, электронике и информационной технике при немецком органе по стандартизации DIN и ассоциации VDE (Deutsche Kommission Elektrotechnik Elektronik Informationstechnik im DIN und VDE, DKE/VDE,)
+T3	ORG 551 657	координационного центра по вопросам информационной безопасности (Koordinierungsstelle IT-Sicherheit, KITS)

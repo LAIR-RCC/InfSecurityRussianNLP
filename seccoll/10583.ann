@@ -1,0 +1,6 @@
+T1	ORG 6 17	SecurityLab
+T2	ORG 19 28	Microsoft
+T3	ORG 68 77	Microsoft
+T4	ORG 171 180	Microsoft
+T5	VIRUS 376 389	CVE-2013-1347
+T6	ORG 433 444	SecurityLab

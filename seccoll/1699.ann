@@ -1,0 +1,31 @@
+T1	TECH 32 35	RDP
+T4	TECH 336 339	RDP
+T5	TECH 415 418	RDP
+T2	PROGRAM 48 65	Microsoft Windows
+T3	PROGRAM 66 86	Microsoft Windows XP
+T22	PROGRAM 86 108	Microsoft Windows 2003
+T23	PROGRAM 108 131	Microsoft Windows Vista
+T24	PROGRAM 131 153	Microsoft Windows 2008
+T25	PROGRAM 153 172	Microsoft Windows 7
+T6	PROGRAM 672 697	Windows XP Service Pack 3
+T7	PROGRAM 793 843	Windows XP Professional x64 Edition Service Pack 2
+T27	PROGRAM 939 973	Windows Server 2003 Service Pack 2
+T8	PROGRAM 1069 1115	Windows Server 2003 x64 Edition Service Pack 2
+T9	PROGRAM 1211 1265	Windows Server 2003 with SP2 for Itanium-based Systems
+T28	PROGRAM 1361 1389	Windows Vista Service Pack 2
+T10	PROGRAM 1485 1525	Windows Vista x64 Edition Service Pack 2
+T11	PROGRAM 1621 1674	Windows Server 2008 for 32-bit Systems Service Pack 2
+T12	PROGRAM 1770 1826	Windows Server 2008 for x64-based Systems Service Pack 2
+T13	PROGRAM 1922 1982	Windows Server 2008 for Itanium-based Systems Service Pack 2
+T29	PROGRAM 2078 2106	Windows 7 for 32-bit Systems
+T14	PROGRAM 2202 2245	Windows 7 for 32-bit Systems Service Pack 1
+T30	PROGRAM 2341 2372	Windows 7 for x64-based Systems
+T15	PROGRAM 2468 2514	Windows 7 for x64-based Systems Service Pack 1
+T31	PROGRAM 2610 2654	Windows Server 2008 R2 for x64-based Systems
+T16	PROGRAM 2750 2809	Windows Server 2008 R2 for x64-based Systems Service Pack 1
+T17	PROGRAM 2905 2953	Windows Server 2008 R2 for Itanium-based Systems
+T18	PROGRAM 3049 3112	Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
+T19	PROGRAM 3208 3261	Windows Server 2008 for 32-bit Systems Service Pack 2
+T20	PROGRAM 3357 3413	Windows Server 2008 for x64-based Systems Service Pack 2
+T32	PROGRAM 3509 3553	Windows Server 2008 R2 for x64-based Systems
+T21	PROGRAM 3649 3708	Windows Server 2008 R2 for x64-based Systems Service Pack 1

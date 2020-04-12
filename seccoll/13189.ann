@@ -1,0 +1,10 @@
+T1	PROGRAM 214 222	Symantec
+T2	TECH 247 264	Tamper Protection
+T3	TECH 567 584	Tamper Protection
+T5	PROGRAM 22 32	Win2k3 SP2
+T6	PROGRAM 40 51	svchost.exe
+T7	PROGRAM 82 94	rundll32.exe
+T8	PROGRAM 444 452	rundll32
+T9	PROGRAM 480 491	svchost.exe
+T10	PROGRAM 612 624	rundll32.exe
+T4	PROGRAM 595 603	Google'у

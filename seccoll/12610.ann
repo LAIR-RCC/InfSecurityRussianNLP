@@ -1,0 +1,45 @@
+T2	TECH 867 870	VML
+T1	PROGRAM 27 54	Microsoft Internet Explorer
+T12	PROGRAM 55 84	Microsoft Internet Explorer 7
+T13	PROGRAM 84 113	Microsoft Internet Explorer 8
+T14	PROGRAM 113 142	Microsoft Internet Explorer 9
+T15	TECH 477 481	HTML
+T16	TECH 977 980	URL
+T17	PROGRAM 1099 1118	Internet Explorer 7
+T18	PROGRAM 1119 1144	Windows XP Service Pack 3
+T19	PROGRAM 1239 1289	Windows XP Professional x64 Edition Service Pack 2
+T20	PROGRAM 1384 1418	Windows Server 2003 Service Pack 2
+T21	PROGRAM 1513 1559	Windows Server 2003 x64 Edition Service Pack 2
+T22	PROGRAM 1654 1708	Windows Server 2003 with SP2 for Itanium-based Systems
+T23	PROGRAM 1803 1831	Windows Vista Service Pack 2
+T24	PROGRAM 1926 1966	Windows Vista x64 Edition Service Pack 2
+T25	PROGRAM 2061 2114	Windows Server 2008 for 32-bit Systems Service Pack 2
+T3	PROGRAM 2209 2265	Windows Server 2008 for x64-based Systems Service Pack 2
+T4	PROGRAM 2360 2420	Windows Server 2008 for Itanium-based Systems Service Pack 2
+T26	PROGRAM 2655 2705	Windows XP Professional x64 Edition Service Pack 2
+T27	PROGRAM 2515 2560	Internet Explorer 8 Windows XP Service Pack 3
+T28	PROGRAM 2800 2834	Windows Server 2003 Service Pack 2
+T29	PROGRAM 2929 2975	Windows Server 2003 x64 Edition Service Pack 2
+T30	PROGRAM 3070 3098	Windows Vista Service Pack 2
+T31	PROGRAM 3193 3233	Windows Vista x64 Edition Service Pack 2
+T32	PROGRAM 3328 3381	Windows Server 2008 for 32-bit Systems Service Pack 2
+T5	PROGRAM 3476 3532	Windows Server 2008 for x64-based Systems Service Pack 2
+T33	PROGRAM 3627 3655	Windows 7 for 32-bit Systems
+T34	PROGRAM 3660 3703	Windows 7 for 32-bit Systems Service Pack 1
+T35	PROGRAM 3798 3829	Windows 7 for x64-based Systems
+T6	PROGRAM 3834 3880	Windows 7 for x64-based Systems Service Pack 1
+T36	PROGRAM 3975 4019	Windows Server 2008 R2 for x64-based Systems
+T7	PROGRAM 4024 4083	Windows Server 2008 R2 for x64-based Systems Service Pack 1
+T37	PROGRAM 4178 4226	Windows Server 2008 R2 for Itanium-based Systems
+T8	PROGRAM 4231 4294	Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
+T38	PROGRAM 4389 4408	Internet Explorer 9
+T39	PROGRAM 4409 4437	Windows Vista Service Pack 2
+T40	PROGRAM 4532 4572	Windows Vista x64 Edition Service Pack 2
+T41	PROGRAM 4667 4720	Windows Server 2008 for 32-bit Systems Service Pack 2
+T9	PROGRAM 4815 4869	Windows Server 2008 for x64-based Systems Service Pack
+T42	PROGRAM 4966 4994	Windows 7 for 32-bit Systems
+T43	PROGRAM 4999 5042	Windows 7 for 32-bit Systems Service Pack 1
+T44	PROGRAM 5137 5168	Windows 7 for x64-based Systems
+T10	PROGRAM 5173 5219	Windows 7 for x64-based Systems Service Pack 1
+T45	PROGRAM 5314 5358	Windows Server 2008 R2 for x64-based Systems
+T11	PROGRAM 5363 5422	Windows Server 2008 R2 for x64-based Systems Service Pack 1

@@ -1,0 +1,17 @@
+T2	PER 267 284	Алексею Лукацкому
+T4	ORG 1210 1213	РНК
+T5	ARTEFACT 1389 1394	HIPAA
+T12	TECH 2749 2752	ETL
+T13	TECH 2816 2823	Extract
+T3	ORG 316 319	РКН
+T1	ORG 64 76	Роскомнадзор
+T7	ORG 1859 1862	РНК
+T10	ARTEFACT 139 211	Об утверждении требований и методов по обезличиванию персональных данных
+T6	TECH 1788 1800	Data masking
+T11	TECH 1811 1823	Data masking
+T9	ORG 1993 1996	IBM
+T15	ORG 1998 2004	Oracle
+T16	ORG 2006 2017	Informatica
+T17	TECH 2062 2074	Data masking
+T14	TECH 2825 2834	Transform
+T18	TECH 2836 2840	Load

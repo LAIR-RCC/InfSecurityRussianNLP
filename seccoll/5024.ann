@@ -1,0 +1,33 @@
+T3	ORG 79 100	Positive Technologies
+T4	ORG 103 108	Cisco
+T6	LOC 219 225	Москве
+T7	EVENT 269 279	ИКТ-форума
+T10	ORG 413 418	Cisco
+T11	TECH 475 499	Всеобъемлющего Интернета
+T12	TECH 569 572	IoE
+T13	ORG 989 1010	Positive Technologies
+T14	ORG 1134 1155	Positive Technologies
+T16	PROGRAM 1624 1633	MaxPatrol
+T17	TECH 1665 1668	IPS
+T19	PROGRAM 1949 1991	Positive Technologies Application Firewall
+T20	PROGRAM 2005 2043	Cisco Unified Computing System Express
+T22	TECH 2200 2210	ERP-систем
+T23	PROGRAM 2313 2336	PT Application Firewall
+T24	PROGRAM 2649 2687	Cisco Unified Computing System Express
+T25	DEVICE 2756 2768	Cisco ISR G2
+T26	TECH 2814 2817	SRE
+T27	EVENT 3000 3013	Cisco Connect
+T30	LOC 3301 3307	России
+T1	ORG 6 27	Positive Technologies
+T2	ORG 29 34	Cisco
+T5	EVENT 164 177	Cisco Connect
+T41	ORG 1013 1018	Cisco
+T42	PROGRAM 1259 1268	MaxPatrol
+T15	PROGRAM 1304 1339	Cisco FirePOWER Next-Generation IPS
+T21	PROGRAM 2045 2068	PT Application Firewall
+T44	LOC 3055 3061	России
+T28	ORG 3723 3728	Cisco
+T29	ORG 4171 4192	Positive Technologies
+T34	TECH 3972 3975	SDN
+T8	TECH 287 334	Всеобъемлющий Интернет (Internet of Everything)
+T9	ORG 1802 1809	(ФСТЭК)

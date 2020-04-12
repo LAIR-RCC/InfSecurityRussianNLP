@@ -1,0 +1,23 @@
+T1	ORG 6 22	Juniper Networks
+T3	ORG 107 165	Международного центра анализа и исследования угроз Juniper
+T4	ORG 333 349	Juniper Networks
+T5	ORG 372 430	Международного центра анализа и исследования угроз Juniper
+T7	LOC 612 621	Коламбусе
+T8	LOC 628 633	Огайо
+T9	ORG 1322 1338	Juniper Networks
+T10	ORG 1761 1796	Международным центром анализа угроз
+T11	ORG 2239 2246	Fortune
+T15	ORG 2993 3000	Juniper
+T17	ORG 3173 3214	Международный центр анализа угроз Juniper
+T18	ORG 3293 3300	Juniper
+T19	ORG 3393 3428	Международным центром анализа угроз
+T20	PROGRAM 3647 3680	Junos Pulse Mobile Security Suite
+T21	ORG 3682 3723	Международный центр анализа угроз Juniper
+T24	ORG 4338 4353	SMobile Systems
+T2	ORG 68 84	Juniper Networks
+T6	ARTEFACT 1815 1855	Отчет о состояние мобильной безопасности
+T13	ORG 4238 4271	Международный центр анализа угроз
+T14	ORG 4299 4310	Центра угро
+T12	PER 2907 2944	Дэниэл В. Хоффман (Daniel V. Hoffman)
+T16	DEVICE 1976 1990	Android Market
+T22	TECH 3911 3914	SMS

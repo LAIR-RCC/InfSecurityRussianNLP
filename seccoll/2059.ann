@@ -1,0 +1,35 @@
+T1	LOC 0 5	Ирвин
+T2	LOC 7 17	Калифорния
+T3	LOC 19 22	США
+T4	LOC 24 39	Санкт-Петербург
+T9	ARTEFACT 407 430	Netwrix Customer Survey
+T11	LOC 594 597	США
+T12	LOC 599 605	Европы
+T13	LOC 607 613	России
+T16	PROGRAM 1338 1353	Netwrix Auditor
+T20	PER 2351 2360	Alex Vovk
+T23	TECH 2699 2702	PDF
+T24	ORG 2728 2735	Netwrix
+T27	LOC 3150 3153	США
+T28	LOC 3155 3161	России
+T29	LOC 3164 3170	Европе
+T32	LOC 3332 3338	Россия
+T33	LOC 3341 3344	СНГ
+T6	PROGRAM 83 98	Netwrix Auditor
+T7	ORG 235 242	Netwrix
+T8	PROGRAM 371 386	Netwrix Auditor
+T10	LOC 621 624	СНГ
+T14	LOC 627 631	Азии
+T35	ORG 745 752	Netwrix
+T15	PROGRAM 797 812	Netwrix Auditor
+T36	ORG 934 941	Netwrix
+T17	PROGRAM 1567 1582	Netwrix Auditor
+T18	PROGRAM 1979 1994	Netwrix Auditor
+T37	ORG 2062 2069	Netwrix
+T19	ORG 2388 2395	Netwrix
+T21	ORG 2801 2808	Netwrix
+T22	ORG 2809 2828	Netwrix Corporation
+T25	ORG 2974 2993	Netwrix Corporation
+T26	PER 3286 3307	Александра Харитонова
+T30	ORG 3345 3364	Netwrix Corporation
+T5	LOC 40 48	(Россия)

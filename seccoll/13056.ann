@@ -1,0 +1,38 @@
+T4	LOC 360 370	Ленобласти
+T5	TECH 1601 1606	ONVIF
+T7	ORG 2546 2582	Центра Компетенций бизнес-приложений
+T17	ORG 5187 5191	DELL
+T18	ORG 5218 5227	Вымпелком
+T19	ORG 5229 5241	NVisionGroup
+T21	ORG 5306 5322	StackDataNetwork
+T22	ORG 5324 5333	Техносерв
+T23	ORG 5335 5342	Тринити
+T26	ORG 5408 5417	Астрософт
+T27	ORG 5419 5429	EventHouse
+T13	TECH 4226 4229	ECM
+T28	ORG 5170 5185	1С Северо-Запад
+T29	ORG 5193 5216	APC bySchneiderElectric
+T20	ORG 5243 5253	ЦРТ Сервис
+T30	ORG 5255 5279	Orange Business Services
+T31	ORG 5281 5286	Canon
+T32	ORG 5288 5297	Helios IT
+T33	ORG 5299 5304	ОЛВИТ
+T24	ORG 5344 5367	Лаборатория Касперского
+T34	ORG 5369 5374	Элком
+T25	ORG 5376 5391	Северен-Телеком
+T35	ORG 5393 5406	Академия АйТи
+T16	ORG 5124 5133	Microsoft
+T36	ORG 5135 5168	ЭОС (Электронные офисные системы)
+T12	PROGRAM 3538 3561	OpenTextи EMCDocumentum
+T2	ORG 87 127	Санкт-Петербургского клуба ИТ-директоров
+T15	ORG 1936 1945	АстроСофт
+T37	TECH 2000 2005	ONVIF
+T10	TECH 2846 2849	СЭД
+T38	TECH 2955 2958	ECM
+T39	TECH 3173 3176	ECM
+T14	ORG 4738 4776	Санкт-Петербургский клуб ИТ-директоров
+T40	LOC 4789 4813	Северо-Западного региона
+T41	ORG 4814 4826	SPb CIO Club
+T3	DEVICE 1687 1696	IP-камеры
+T8	TECH 3526 3536	ECM-систем
+T9	TECH 2693 2698	(СЭД)

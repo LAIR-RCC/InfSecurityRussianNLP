@@ -1,0 +1,36 @@
+T1	PROGRAM 780 787	Pornhub
+T2	PROGRAM 1035 1048	The Real Deal
+T3	HACKER 1222 1235	Peace of Mind
+T4	HACKER_GROUP 1365 1375	Киберхунта
+T6	ORG 1457 1470	Единая Россия
+T7	ORG 1863 1872	Ведомости
+T9	LOC 2114 2120	Турции
+T10	HACKER_GROUP 2246 2255	Anonymous
+T11	LOC 2318 2321	США
+T12	PER 2386 2402	Эдварда Сноудена
+T13	ORG 2411 2424	The Intercept
+T16	ARTEFACT 2622 2654	Signals Intelligence Directorate
+T17	ORG 2911 2915	ESET
+T20	VIRUS 3306 3316	TeslaCrypt
+T21	ORG 3712 3735	Лаборатории Касперского
+T24	VIRUS 4178 4184	Furtim
+T26	PROGRAM 564 570	PayPal
+T27	HACKER 836 844	Revolver
+T28	ORG 975 982	Pornhub
+T29	PROGRAM 1159 1167	LinkedIn
+T22	VIRUS 3782 3788	Skimer
+T30	PROGRAM 1311 1319	LinkedIn
+T32	ORG 1481 1492	SecurityLab
+T18	LOC 2989 2992	ДНР
+T34	LOC 2995 2998	ЛНР
+T35	VIRUS 3437 3447	TeslaCrypt
+T36	VIRUS 4064 4070	Skimer
+T37	PROGRAM 431 440	nulled.io
+T25	TECH 539 548	IP-адреса
+T38	PROGRAM 1953 1965	autonum.info
+T19	EVENT 3107 3129	Прикормка (Groundbait)
+T23	TECH 3923 3931	PIN-коды
+T39	PROGRAM 3519 3525	Dridex
+T8	ORG 2478 2517	Агентства национальной безопасности США
+T5	ORG 1436 1446	Госдумы РФ
+T14	ORG 2580 2620	Управления радиоэлектронной разведки АНБ

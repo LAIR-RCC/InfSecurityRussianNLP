@@ -1,0 +1,58 @@
+T1	PER 9 24	Андрей Прозоров
+T2	PER 27 44	Максим Степченков
+T4	PER 75 90	Андрей Прозоров
+T5	PER 93 110	Максим Степченков
+T8	ORG 213 215	Цэ
+T9	ORG 306 314	Fortinet
+T10	LOC 380 386	России
+T11	LOC 453 461	ГосСОПКу
+T12	ARTEFACT 517 523	Платон
+T16	ORG 716 721	ФСТЭК
+T19	ORG 958 966	Fortinet
+T20	LOC 969 975	России
+T22	ORG 1074 1082	Fortinet
+T23	PER 1125 1140	Михаил Родионов
+T25	ORG 1193 1201	Fortinet
+T27	PER 1303 1319	Андрея Прозорова
+T28	PER 1322 1341	Максима Степченкова
+T30	ORG 1677 1685	Fortinet
+T31	ORG 1808 1816	Fortinet
+T33	PER 1977 1997	Александра Скакунова
+T34	ORG 2001 2010	ВолгаБлоб
+T35	PROGRAM 2033 2038	Prezi
+T36	ORG 2523 2531	Fortinet
+T37	ORG 2682 2690	Fortinet
+T38	LOC 2712 2718	Россию
+T39	ORG 2997 3005	Fortinet
+T40	LOC 3291 3297	России
+T41	ORG 3400 3408	Fortinet
+T42	LOC 3411 3417	России
+T3	EVENT 48 74	Fortinet Security Day 2015
+T6	EVENT 114 140	Fortinet Security Day 2015
+T45	ARTEFACT 504 512	ГосСОПКА
+T46	EVENT 428 448	#FortinetSecurityDay
+T7	EVENT 269 289	#FortinetSecurityDay
+T13	EVENT 532 552	#FortinetSecurityDay
+T14	ORG 628 633	ФСТЭК
+T47	LOC 634 640	России
+T15	EVENT 786 806	#FortinetSecurityDay
+T17	EVENT 922 948	Fortinet Security Day 2015
+T18	PER 1380 1397	Сергеем Вахониным
+T21	ORG 1856 1867	Ростелекома
+T24	ORG 1869 1878	Coca-Cola
+T26	ORG 1880 1886	VMware
+T29	PROGRAM 1948 1956	Evernote
+T32	ORG 2780 2785	ФСТЭК
+T49	DEVICE 2837 2846	FortiGate
+T50	DEVICE 2850 2863	FortiGate-40C
+T51	DEVICE 2867 2882	FortiGate-3950B
+T43	ORG 3496 3500	УЦСБ
+T52	ORG 3514 3522	Fortinet
+T53	ORG 3640 3644	УЦСБ
+T44	EVENT 3737 3758	Fortinet Security Day
+T54	PER 290 303	@IlyaShabanov
+T55	PER 401 408	@zlonov
+T56	PER 478 485	@zlonov
+T57	PER 553 560	@3dwave
+T58	PER 672 679	@zlonov
+T48	EVENT 649 671	#Fortinet #SecurityDay

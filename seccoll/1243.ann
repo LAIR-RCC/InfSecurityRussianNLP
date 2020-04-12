@@ -1,0 +1,4 @@
+T5	VIRUS 118 121	XSS
+T3	ARTEFACT 502 574	Content Management Framework "G3" - XSS Vulnerability in Search Function
+T1	PROGRAM 24 37	INM AG CMS G3
+T2	PROGRAM 38 51	INM AG CMS G3

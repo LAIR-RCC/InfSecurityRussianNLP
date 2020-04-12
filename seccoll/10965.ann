@@ -1,0 +1,16 @@
+T2	ORG 183 199	Digital Security
+T3	PER 253 270	Илья Медведовский
+T7	ORG 1065 1086	AnalyticResearchGroup
+T8	LOC 1108 1114	России
+T9	ORG 1216 1237	АnalyticResearchGroup
+T13	ORG 2248 2274	Json & Partners Consulting
+T15	LOC 2531 2537	России
+T29	LOC 4846 4848	РФ
+T31	ORG 4928 4944	Digital Security
+T1	ARTEFACT 4500 4506	ФЗ-161
+T11	LOC 4550 4552	РФ
+T12	ARTEFACT 4547 4549	ГК
+T17	ARTEFACT 4843 4845	УК
+T14	ORG 2563 2589	Json & Partners Consulting
+T4	ORG 1563 1595	Фондом Общественное мнение (ФОМ)
+T5	EVENT 5524 5532	Blackhat

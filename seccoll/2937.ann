@@ -1,0 +1,7 @@
+T1	ORG 189 210	Министерством обороны
+T3	DEVICE 453 466	GPS-приёмника
+T5	TECH 0 3	GPS
+T6	TECH 4 7	GPS
+T7	LOC 211 214	США
+T2	TECH 479 482	GPS
+T8	DEVICE 577 590	GPS-приемники

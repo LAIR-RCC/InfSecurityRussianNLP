@@ -1,0 +1,13 @@
+T4	TECH 25 33	TrueType
+T1	PROGRAM 44 61	Microsoft Windows
+T5	PROGRAM 62 82	Microsoft Windows XP
+T3	TECH 393 401	TrueType
+T6	PROGRAM 149 168	Microsoft Windows 7
+T7	PROGRAM 82 104	Microsoft Windows 2003
+T8	PROGRAM 104 127	Microsoft Windows Vista
+T9	PROGRAM 127 149	Microsoft Windows 2008
+T10	PROGRAM 168 193	Microsoft Windows 2008 R2
+T11	PROGRAM 193 212	Microsoft Windows 8
+T12	PROGRAM 212 241	Microsoft Windows Server 2012
+T13	TECH 477 485	TrueType
+T14	ARTEFACT 637 727	MS12-075: Vulnerabilities in Windows Kernel-Mode Drivers Could Allow Remote Code Execution

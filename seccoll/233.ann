@@ -1,0 +1,16 @@
+T1	EVENT 64 74	BIS Summit
+T2	PROGRAM 854 864	ISM:Market
+T5	ORG 1158 1165	Gartner
+T6	ORG 1265 1272	Гартнер
+T7	ORG 1423 1430	Gartner
+T8	ORG 1530 1537	Гартнер
+T9	ORG 1680 1688	Гартнера
+T10	ORG 1693 1703	Форрестера
+T11	ORG 1844 1851	Gartner
+T12	ORG 2077 2085	Softline
+T13	ORG 2090 2094	Крок
+T15	ORG 1168 1177	Forrester
+T16	ORG 1433 1442	Forrester
+T17	PROGRAM 1873 1893	Gartner PeerInsights
+T3	TECH 1003 1021	Квадранты Гартнера
+T4	TECH 1024 1040	Волны Форрестера

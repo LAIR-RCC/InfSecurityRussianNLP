@@ -1,0 +1,55 @@
+T1	PER 230 248	Владислава Суркова
+T2	ORG 292 305	Роскомнадзора
+T3	ORG 365 375	Cellebrite
+T5	HACKER_GROUP 529 539	КиберХунта
+T6	LOC 601 607	России
+T7	PER 608 626	Владислава Суркова
+T8	LOC 700 707	Украине
+T10	PER 736 751	Антон Геращенко
+T12	ORG 849 873	Администрации президента
+T13	PER 874 890	Владимира Путина
+T14	PER 963 977	Дмитрий Песков
+T15	PER 979 985	Сурков
+T16	LOC 1114 1120	Россию
+T18	ORG 1232 1240	Пентагон
+T19	LOC 1269 1272	США
+T20	LOC 1421 1424	США
+T21	LOC 1443 1449	Китаем
+T22	LOC 1451 1457	Япония
+T23	ORG 1516 1527	Trend Micro
+T24	HACKER_GROUP 1565 1574	BLACKGEAR
+T25	LOC 1613 1620	Тайване
+T26	ORG 1648 1660	Роскомнадзор
+T27	LOC 1873 1879	Россию
+T28	PROGRAM 1946 1954	LinkedIn
+T29	ORG 1983 1993	Мосгорсуде
+T30	ORG 2042 2071	McSira Professional Solutions
+T31	ORG 2132 2142	Cellebrite
+T33	ORG 2510 2518	Symantec
+T37	VIRUS 2814 2820	GM Bot
+T38	ORG 3000 3008	Netskope
+T39	VIRUS 3054 3064	CloudFanta
+T40	PROGRAM 3316 3325	Sugarsync
+T41	PROGRAM 3328 3335	Dropbox
+T42	PROGRAM 3399 3406	Windows
+T43	ORG 3436 3442	enSilo
+T44	VIRUS 3473 3484	AtomBombing
+T45	ORG 3641 3664	Corero Network Security
+T48	PROGRAM 326 334	LinkedIn
+T4	VIRUS 383 394	AtomBombing
+T9	ORG 724 727	МВД
+T49	LOC 728 735	Украины
+T11	LOC 774 781	Украины
+T50	ORG 754 773	Служба безопасности
+T17	LOC 1163 1166	США
+T51	ORG 1140 1162	Демократической партии
+T52	PROGRAM 1719 1727	LinkedIn
+T53	PROGRAM 1826 1834	LinkedIn
+T34	VIRUS 2584 2602	Android.Lockscreen
+T35	ORG 2748 2759	IBM X-Force
+T36	PROGRAM 2858 2877	Android Marshmallow
+T54	PROGRAM 3537 3544	Windows
+T55	TECH 3907 3923	Active Directory
+T32	DEVICE 2473 2490	Android-устройств
+T47	TECH 3779 3823	Lightweight Directory Access Protocol (LDAP)
+T46	VIRUS 3704 3715	DDoS-атаках

@@ -1,0 +1,4 @@
+T1	TECH 36 40	Perl
+T5	TECH 41 51	Perl 5.8.6
+T2	PROGRAM 282 288	"sv.c"
+T3	PROGRAM 255 275	"Perl_sv_vcatpvfn()"

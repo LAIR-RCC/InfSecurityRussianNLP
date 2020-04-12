@@ -1,0 +1,31 @@
+T1	LOC 0 5	Ирвин
+T2	LOC 7 17	Калифорния
+T3	LOC 19 22	США
+T4	LOC 24 39	Санкт-Петербург
+T6	ORG 79 86	Netwrix
+T8	ORG 332 339	Netwrix
+T9	PROGRAM 416 431	Netwrix Auditor
+T13	ORG 1097 1104	Netwrix
+T15	PROGRAM 1402 1417	Netwrix Auditor
+T16	PROGRAM 1804 1819	Netwrix Auditor
+T20	PROGRAM 2520 2535	Netwrix Auditor
+T23	PER 3043 3056	Michael Fimin
+T25	ORG 3086 3093	Netwrix
+T26	TECH 3179 3182	PDF
+T29	LOC 3529 3532	США
+T30	LOC 3534 3540	России
+T31	LOC 3543 3549	Европе
+T32	PER 3669 3690	Александра Харитонова
+T33	LOC 3715 3721	Россия
+T7	PROGRAM 503 518	Netwrix Auditor
+T10	PROGRAM 1574 1589	Netwrix Auditor
+T11	PROGRAM 2312 2327	Netwrix Auditor
+T12	PROGRAM 2395 2402	Netwrix
+T14	PROGRAM 2937 2952	Netwrix Auditor
+T19	ORG 3203 3210	Netwrix
+T21	ORG 3211 3230	Netwrix Corporation
+T22	ORG 3353 3372	Netwrix Corporation
+T24	ORG 3724 3727	СНГ
+T27	ORG 3728 3747	Netwrix Corporation
+T5	LOC 40 48	(Россия)
+T17	PROGRAM 2218 2233	Netwrix Auditor

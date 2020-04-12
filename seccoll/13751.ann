@@ -1,0 +1,16 @@
+T1	ORG 126 147	Positive Technologies
+T9	TECH 1734 1738	HTTP
+T4	VIRUS 831 844	SQL Injection
+T5	VIRUS 1134 1153	Information Leakage
+T10	VIRUS 2144 2183	Insufficient Transport Layer Protection
+T12	VIRUS 2845 2871	Cross-Site Scripting (XSS)
+T13	VIRUS 3119 3147	Insufficient Anti-automation
+T14	TECH 2325 2328	OSI
+T15	VIRUS 2473 2502	Predictable Resource Location
+T2	VIRUS 420 434	Path Traversal
+T3	TECH 631 634	URL
+T16	VIRUS 635 648	OS Commanding
+T6	VIRUS 1656 1689	Cross-Site Request Forgery (XSRF)
+T7	VIRUS 1446 1457	Brute Force
+T8	TECH 2260 2263	SSL
+T11	TECH 2264 2267	TLS

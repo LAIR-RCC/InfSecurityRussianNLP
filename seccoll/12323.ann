@@ -1,0 +1,17 @@
+T4	ORG 1593 1608	Карнеги-Меллона
+T6	VIRUS 1715 1722	Морриса
+T8	LOC 2150 2156	России
+T9	ORG 2169 2185	Digital Security
+T10	ORG 2425 2441	Digital Security
+T11	LOC 2541 2547	России
+T14	ORG 2843 2909	Cyber Security and Information Systems Information Analysis Center
+T15	LOC 3056 3059	США
+T3	ORG 2826 2836	МинОбороны
+T5	LOC 2837 2840	США
+T2	ORG 1235 1274	Министерством национальной безопасности
+T12	LOC 1275 1278	США
+T16	LOC 3159 3162	США
+T18	ORG 3148 3158	МинОбороны
+T7	PROGRAM 1866 1904	Software Assurance Marketplace (SWAMP)
+T13	ORG 1279 1284	(DHS)
+T1	PROGRAM 1184 1205	" Build Security In "

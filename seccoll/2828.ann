@@ -1,0 +1,41 @@
+T3	ORG 399 411	Anti-Malware
+T4	TECH 605 609	HIPS
+T13	PROGRAM 2063 2084	Avira AntiVir Premium
+T14	ARTEFACT 2273 2306	Silver Proactive Protection Award
+T15	PROGRAM 2343 2348	DrWeb
+T16	ARTEFACT 2511 2544	Silver Proactive Protection Award
+T17	PROGRAM 2607 2624	Sophos Anti-Virus
+T21	PROGRAM 2878 2899	BitDefender Antivirus
+T22	ARTEFACT 3105 3136	Gold Proactive Protection Award
+T23	ARTEFACT 3249 3282	Silver Proactive Protection Award
+T24	PROGRAM 3338 3352	AVG Anti-Virus
+T26	PROGRAM 3420 3439	F-Secure Anti-Virus
+T27	PROGRAM 3476 3493	Norton Anti-Virus
+T28	PROGRAM 3606 3621	Panda Antivirus
+T29	PROGRAM 3623 3652	Trend Micro Internet Security
+T30	PROGRAM 3655 3685	Agnitum Outpost Anti-Virus Pro
+T31	ARTEFACT 3743 3776	Bronze Proactive Protection Award
+T1	ORG 31 37	Sophos
+T2	ORG 38 50	Anti-Malware
+T32	ORG 212 224	Anti-Malware
+T5	PROGRAM 1059 1093	Agnitum Outpost Antivirus Pro 2009
+T33	PROGRAM 1260 1285	Kaspersky Anti-Virus 2009
+T34	PROGRAM 1094 1125	Avast! Professional Edition 4.8
+T6	PROGRAM 1126 1144	AVG Anti-Virus 8.0
+T7	PROGRAM 1145 1170	Avira AntiVir Premium 8.2
+T8	PROGRAM 1171 1197	BitDefender Antivirus 2009
+T9	PROGRAM 1198 1208	Dr.Web 5.0
+T35	PROGRAM 1209 1234	Eset Nod32 Anti-Virus 3.0
+T36	PROGRAM 1235 1259	F-Secure Anti-Virus 2009
+T37	PROGRAM 1286 1306	Panda Antivirus 2009
+T38	PROGRAM 1307 1328	Sophos Anti-Virus 7.6
+T10	PROGRAM 1329 1353	Symantec Anti-Virus 2009
+T11	PROGRAM 1354 1388	Trend Micro Internet Security 2009
+T39	PROGRAM 1389 1409	VBA32 Antivirus 3.12
+T12	PROGRAM 2832 2852	Kaspersky Anti-Virus
+T18	PROGRAM 2854 2875	Eset Nod32 Anti-Virus
+T19	PROGRAM 3354 3381	Avast! Professional Edition
+T20	PROGRAM 3383 3400	Norton Anti-Virus
+T25	PROGRAM 3402 3417	VBA32 Antivirus
+T40	ORG 3443 3455	Anti-Malware
+T41	PROGRAM 1464 1478	Windows XP SP3

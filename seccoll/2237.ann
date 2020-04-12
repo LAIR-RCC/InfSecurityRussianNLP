@@ -1,0 +1,13 @@
+T1	ORG 44 47	МАК
+T2	ORG 226 267	Межгосударственного авиационного комитета
+T3	ORG 295 300	Apple
+T5	ORG 548 589	Межгосударственного авиационного комитета
+T6	ORG 616 621	Apple
+T7	PROGRAM 278 284	Mac OS
+T4	PROGRAM 453 459	Mac OS
+T8	PROGRAM 599 605	Mac OS
+T9	PROGRAM 707 713	Mac OS
+T10	PER 7 16	doloto ls
+T11	PROGRAM 61 66	макос
+T12	PROGRAM 502 509	виндовс
+T13	PROGRAM 756 763	виндовс

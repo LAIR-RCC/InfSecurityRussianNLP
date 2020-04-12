@@ -1,0 +1,46 @@
+T1	PER 58 78	Александр Бондаренко
+T2	PER 101 115	Алексей Волков
+T3	ARTEFACT 161 174	Постановления
+T14	ARTEFACT 1525 1538	ИСО/МЭК 15408
+T15	ARTEFACT 1842 1845	CIS
+T16	ARTEFACT 2118 2121	CIS
+T18	ARTEFACT 2365 2368	CIS
+T20	ARTEFACT 2571 2574	CIS
+T21	ARTEFACT 2723 2726	CIS
+T23	ORG 2904 2916	Банка России
+T5	ARTEFACT 305 585	Федерального закона О внесении изменений в Федеральный закон Об информации, информационных технологиях и о защите информации и отдельные законодательные акты Российской Федерации по вопросам упорядочения обмена информацией с использованием информационно-телекоммуникационных сетей
+T4	ORG 175 188	Правительства
+T6	LOC 189 191	РФ
+T29	ARTEFACT 212 284	О внесении изменений в некоторые акты Правительства Российской Федерации
+T30	PROGRAM 644 664	Microsoft PatchGuard
+T31	PROGRAM 670 693	Kernel Patch Protection
+T8	ORG 830 866	(IN)SECURE Magazine Issue 43 ( 2014)
+T9	ARTEFACT 883 915	Certification, mobile, Black Hat
+T10	ARTEFACT 961 1014	ГОСТ Р ИСО/МЭК 15408-2-2013 Информационная технология
+T11	ARTEFACT 1287 1340	ГОСТ Р ИСО/МЭК 15408-3-2013 Информационная технология
+T12	ARTEFACT 1540 1587	CIS Microsoft Windows 8.1 Benchmark v 1.0.0 CIS
+T13	PROGRAM 1641 1662	Microsoft Windows 8.1
+T17	ARTEFACT 1682 1737	CIS Microsoft Windows Server 2012 R 2 Benchmark v 1.0.0
+T27	PROGRAM 1789 1822	Microsoft Windows Server 2012 R 2
+T32	ARTEFACT 1923 1960	CIS Apple iOS 7 Benchmark v 1.1.0 CIS
+T33	PROGRAM 2014 2025	Apple iOS 7
+T34	ARTEFACT 2045 2098	CIS VMware ESXi 5.5 Benchmark v 1.1.0 VMware ESXi 5.5
+T35	ARTEFACT 2197 2264	CIS Microsoft SQL Server 2008 R 2 Database Engine Benchmark v 1.2.0
+T36	PROGRAM 2316 2345	Microsoft SQL Server 2008 R 2
+T37	ARTEFACT 2446 2509	CIS Microsoft SQL Server 2012 Database Engine Benchmark v 1.2.0
+T19	PROGRAM 2510 2551	Microsoft SQL Server 2012 Database Engine
+T38	ARTEFACT 2650 2687	CIS Microsoft IIS 7 Benchmark v 1.5.0
+T39	PROGRAM 2688 2703	Microsoft IIS 7
+T22	ORG 2827 2839	Банка России
+T24	ORG 3062 3075	Банком России
+T25	ORG 3303 3338	Министерства регионального развития
+T40	LOC 3339 3359	Российской Федерации
+T41	ORG 3361 3370	Минрегион
+T42	LOC 3371 3377	России
+T26	ORG 3486 3521	Министерстве регионального развития
+T43	LOC 3522 3542	Российской Федерации
+T44	PROGRAM 3607 3646	OWASP Xenotix XSS Exploit Framework v 6
+T28	PER 3784 3800	Андрея Прозорова
+T45	VIRUS 3690 3705	XSS-уязвимостей
+T7	VIRUS 628 643	Android-вирусов
+T46	TECH 7 12	agile

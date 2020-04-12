@@ -1,0 +1,13 @@
+T4	TECH 476 484	Интернет
+T5	PROGRAM 548 552	FIDO
+T7	ORG 843 848	Cisco
+T10	ORG 1061 1092	Department of Homeland Security
+T12	ORG 1817 1826	Евросоюза
+T1	TECH 727 735	Интернет
+T2	TECH 3260 3268	Интернет
+T3	ORG 1017 1055	Министерства национальной безопасности
+T6	LOC 1056 1059	США
+T8	DEVICE 1349 1355	iPhone
+T9	DEVICE 1358 1362	iPad
+T11	DEVICE 1375 1382	MacBook
+T13	TECH 2056 2064	Интернет

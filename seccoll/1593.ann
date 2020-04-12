@@ -1,0 +1,17 @@
+T2	ORG 38 51	VimpelCom Ltd
+T3	LOC 140 146	России
+T4	ORG 157 160	СНГ
+T5	ORG 173 179	Билайн
+T9	ORG 391 397	Билайн
+T10	LOC 439 445	России
+T11	ORG 559 578	The Finantial Times
+T12	ORG 631 655	European Brand Institute
+T1	ORG 0 6	Билайн
+T13	ORG 7 13	Билайн
+T6	TECH 212 215	GSM
+T14	TECH 218 222	UMTS
+T16	TECH 317 325	Интернет
+T18	TECH 363 375	Мобильное ТВ
+T7	TECH 258 264	(FTTB)
+T8	TECH 281 288	(Wi-Fi)
+T15	TECH 335 349	IP-телевидения

@@ -1,0 +1,21 @@
+T8	TECH 1195 1198	BGP
+T18	PROGRAM 2668 2685	Bleeping Computer
+T29	TECH 3432 3435	BGP
+T30	TECH 3460 3469	Интернета
+T19	TECH 3685 3688	P2P
+T34	TECH 1767 1770	P2P
+T35	ORG 4998 5009	DSHR's Blog
+T1	ARTEFACT 2101 2197	Экономический эффект масштаба в одноранговых сетях (Economies of Scale in Peer-to-Peer Networks)
+T2	PER 2612 2645	Каталин Чимпану (Catalin Cimpanu)
+T3	PER 3052 3087	Марии Апостолаки (Maria Apostolaki)
+T4	PER 3089 3114	Авива Зохара (Aviv Zohar)
+T5	PER 3117 3152	Лорана Ванбевера (Laurent Vanbever)
+T7	TECH 2992 3015	Border Gateway Protocol
+T9	TECH 3017 3020	BGP
+T11	TECH 1753 1765	peer-to-peer
+T12	TECH 2217 2228	P2P-системы
+T13	TECH 2755 2763	P2P-сети
+T14	EVENT 2505 2550	ACM symposium on operating systems principles
+T15	EVENT 2552 2556	SOSP
+T6	VIRUS 641 665	захвата BGP (BGP hijack)
+T10	TECH 3212 3268	(Hijacking Bitcoin: Routing Attacks on Cryptocurrencies)

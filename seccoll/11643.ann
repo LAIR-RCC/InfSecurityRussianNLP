@@ -1,0 +1,5 @@
+T1	ORG 28 39	GlobalTrust
+T2	ORG 368 379	GlobalTrust
+T3	TECH 445 492	Системы Управления Информационной Безопасностью
+T5	LOC 382 393	Москва-Сити
+T4	ARTEFACT 548 557	ISO 27001

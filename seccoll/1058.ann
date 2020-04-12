@@ -1,0 +1,11 @@
+T1	PROGRAM 23 36	Print Spooler
+T3	PROGRAM 338 369	Microsoft Windows Print Spooler
+T2	PROGRAM 39 56	Microsoft Windows
+T6	PROGRAM 57 80	Microsoft Windows Vista
+T7	PROGRAM 80 102	Microsoft Windows 2008
+T8	PROGRAM 102 127	Microsoft Windows 2008 R2
+T9	PROGRAM 127 146	Microsoft Windows 7
+T10	PROGRAM 146 165	Microsoft Windows 8
+T11	PROGRAM 165 194	Microsoft Windows Server 2012
+T12	PROGRAM 194 214	Microsoft Windows RT
+T4	PROGRAM 611 632	Windows Print Spooler

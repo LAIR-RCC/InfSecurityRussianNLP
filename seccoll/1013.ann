@@ -1,0 +1,6 @@
+T3	PROGRAM 626 663	Oracle Critical Patch Update Advisory
+T1	PROGRAM 27 46	Oracle MySQL Server
+T4	PROGRAM 47 66	Oracle MySQL Server
+T2	PROGRAM 74 79	5.0.x
+T5	PROGRAM 81 86	5.1.x
+T6	PROGRAM 89 94	5.5.x

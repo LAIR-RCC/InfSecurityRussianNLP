@@ -1,0 +1,31 @@
+T2	PROGRAM 322 349	Microsoft Internet Explorer
+T3	TECH 530 533	CSS
+T1	PROGRAM 27 54	Microsoft Internet Explorer
+T12	TECH 269 272	COM
+T4	PROGRAM 3183 3260	Internet Explorer 7 for Windows Server 2003 for Itanium-based systems SP1/SP2
+T13	TECH 605 608	Web
+T14	TECH 829 832	Web
+T16	TECH 1067 1070	Web
+T17	PROGRAM 1407 1427	Microsoft Speech API
+T18	TECH 1496 1499	Web
+T19	PROGRAM 1648 1694	Internet Explorer 5.01 SP4 on Windows 2000 SP4
+T20	PROGRAM 1774 1817	Internet Explorer 6 SP1 on Windows 2000 SP4
+T21	PROGRAM 1897 1935	Internet Explorer 6 for Windows XP SP2
+T22	PROGRAM 2015 2091	Internet Explorer 6 for Windows XP Professional x64 Edition (optionally SP2)
+T23	PROGRAM 2171 2222	Internet Explorer 6 for Windows Server 2003 SP1/SP2
+T24	PROGRAM 2302 2379	Internet Explorer 6 for Windows Server 2003 x64 Edition (optionally with SP2)
+T25	PROGRAM 2459 2536	Internet Explorer 6 for Windows Server 2003 for Itanium-based systems SP1/SP2
+T26	PROGRAM 2616 2654	Internet Explorer 7 for Windows XP SP2
+T27	PROGRAM 2734 2815	Internet Explorer 7 for Windows XP Professional x64 Edition (optionally with SP2)
+T28	PROGRAM 2895 2946	Internet Explorer 7 for Windows Server 2003 SP1/SP2
+T29	PROGRAM 3026 3103	Internet Explorer 7 for Windows Server 2003 x64 Edition (optionally with SP2)
+T30	PROGRAM 3340 3377	Internet Explorer 7 for Windows Vista
+T31	PROGRAM 3457 3506	Internet Explorer 7 for Windows Vista x64 Edition
+T5	ARTEFACT 3594 3653	(MS07-033) Cumulative Security Update for Internet Explorer
+T6	ARTEFACT 3663 3730	Microsoft Speech API ActiveX control Remote BoF Exploit (win2k sp4)
+T8	ARTEFACT 3796 3898	ZDI-07-037: Microsoft Internet Explorer Language Pack Installation Remote Code Execution Vulnerability
+T9	ARTEFACT 3899 4059	ZDI-07-038: Microsoft Internet Explorer Prototype Dereference Code Execution Vulnerability Microsoft DirectSpeechSynthesis Module Remote Buffer Overflow Exploit
+T7	ARTEFACT 3731 3795	Microsoft Speech API ActiveX control Remote BoF Exploit (xp sp2)
+T10	PROGRAM 55 87	Microsoft Internet Explorer 6.01
+T11	PROGRAM 89 92	6.x
+T32	PROGRAM 94 97	7.x

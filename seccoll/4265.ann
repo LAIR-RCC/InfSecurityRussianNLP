@@ -1,0 +1,36 @@
+T1	PROGRAM 32 59	Microsoft Internet Explorer
+T2	PROGRAM 60 89	Microsoft Internet Explorer 6
+T3	PROGRAM 89 118	Microsoft Internet Explorer 7
+T4	PROGRAM 118 147	Microsoft Internet Explorer 8
+T20	PROGRAM 736 786	Windows XP Professional x64 Edition Service Pack 2
+T21	PROGRAM 881 915	Windows Server 2003 Service Pack 2
+T22	PROGRAM 1010 1056	Windows Server 2003 x64 Edition Service Pack 2
+T23	PROGRAM 1151 1205	Windows Server 2003 with SP2 for Itanium-based Systems
+T24	PROGRAM 1300 1345	Internet Explorer 7 Windows XP Service Pack 3
+T5	PROGRAM 1440 1490	Windows XP Professional x64 Edition Service Pack 2
+T25	PROGRAM 1585 1619	Windows Server 2003 Service Pack 2
+T6	PROGRAM 1714 1760	Windows Server 2003 x64 Edition Service Pack 2
+T26	PROGRAM 1855 1909	Windows Server 2003 with SP2 for Itanium-based Systems
+T27	PROGRAM 2004 2032	Windows Vista Service Pack 2
+T28	PROGRAM 2127 2167	Windows Vista x64 Edition Service Pack 2
+T7	PROGRAM 4792 4855	Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
+T17	PROGRAM 4649 4697	Windows Server 2008 R2 for Itanium-based Systems
+T16	PROGRAM 4495 4554	Windows Server 2008 R2 for x64-based Systems Service Pack 1
+T29	PROGRAM 4356 4400	Windows Server 2008 R2 for x64-based Systems
+T15	PROGRAM 4215 4261	Windows 7 for x64-based Systems Service Pack 1
+T30	PROGRAM 4089 4120	Windows 7 for x64-based Systems
+T14	PROGRAM 3951 3994	Windows 7 for 32-bit Systems Service Pack 1
+T31	PROGRAM 3828 3856	Windows 7 for 32-bit Systems
+T32	PROGRAM 3677 3733	Windows Server 2008 for x64-based Systems Service Pack 2
+T12	PROGRAM 3529 3582	Windows Server 2008 for 32-bit Systems Service Pack 2
+T13	PROGRAM 3394 3434	Windows Vista x64 Edition Service Pack 2
+T11	PROGRAM 3271 3299	Windows Vista Service Pack 2
+T33	PROGRAM 3130 3176	Windows Server 2003 x64 Edition Service Pack 2
+T34	PROGRAM 3001 3035	Windows Server 2003 Service Pack 2
+T8	PROGRAM 2262 2315	Windows Server 2008 for 32-bit Systems Service Pack 2
+T9	PROGRAM 2410 2466	Windows Server 2008 for x64-based Systems Service Pack 2
+T10	PROGRAM 2561 2621	Windows Server 2008 for Itanium-based Systems Service Pack 2
+T35	PROGRAM 2716 2761	Internet Explorer 8 Windows XP Service Pack 3
+T36	PROGRAM 2856 2906	Windows XP Professional x64 Edition Service Pack 2
+T18	PROGRAM 596 615	Internet Explorer 6
+T19	PROGRAM 616 641	Windows XP Service Pack 3

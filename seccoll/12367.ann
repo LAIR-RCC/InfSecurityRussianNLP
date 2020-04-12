@@ -1,0 +1,8 @@
+T1	PROGRAM 39 56	Microsoft Windows
+T4	PROGRAM 57 77	Microsoft Windows XP
+T2	PROGRAM 77 99	Microsoft Windows 2003
+T5	PROGRAM 99 122	Microsoft Windows Vista
+T6	PROGRAM 122 144	Microsoft Windows 2008
+T7	PROGRAM 144 163	Microsoft Windows 7
+T8	PROGRAM 163 188	Microsoft Windows 2008 R2
+T3	ARTEFACT 632 724	MS12-081: Vulnerability in Windows File Handling Component Could Allow Remote Code Execution

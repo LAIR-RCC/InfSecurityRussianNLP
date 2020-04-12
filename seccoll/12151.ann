@@ -1,0 +1,7 @@
+T1	ORG 6 16	Ростелеком
+T5	ORG 454 464	Ростелеком
+T6	LOC 625 627	РФ
+T2	TECH 18 21	SSL
+T3	PROGRAM 196 208	gosuslugi.ru
+T4	TECH 429 444	ssl-сертификате
+T7	PROGRAM 384 396	gosuslugi.ru

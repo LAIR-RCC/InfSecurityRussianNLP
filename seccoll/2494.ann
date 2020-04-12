@@ -1,0 +1,53 @@
+T2	TECH 281 285	HTML
+T8	ORG 3374 3381	Secunia
+T1	PROGRAM 32 59	Microsoft Internet Explorer
+T15	PROGRAM 60 92	Microsoft Internet Explorer 5.01
+T3	PROGRAM 668 684	Windows 2000 SP4
+T4	PROGRAM 689 715	Internet Explorer 5.01 SP4
+T5	PROGRAM 919 937	Windows XP SP2/SP3
+T16	PROGRAM 942 961	Internet Explorer 6
+T17	PROGRAM 795 811	Windows 2000 SP4
+T18	PROGRAM 816 839	Internet Explorer 6 SP1
+T6	PROGRAM 1041 1076	Windows XP Professional x64 Edition
+T19	PROGRAM 1202 1229	Windows Server 2003 SP1/SP2
+T20	PROGRAM 1333 1364	Windows Server 2003 x64 Edition
+T21	PROGRAM 1490 1522	Windows Server 2003 with SP1/SP2
+T22	PROGRAM 1652 1670	Windows XP SP2/SP3
+T23	PROGRAM 1774 1809	Windows XP Professional x64 Edition
+T24	PROGRAM 1935 1962	Windows Server 2003 SP1/SP2
+T25	PROGRAM 2962 2981	Windows Server 2008
+T26	PROGRAM 2066 2097	Windows Server 2003 x64 Edition
+T27	PROGRAM 2223 2255	Windows Server 2003 with SP1/SP2
+T28	PROGRAM 2385 2398	Windows Vista
+T29	PROGRAM 2524 2549	Windows Vista x64 Edition
+T30	PROGRAM 2675 2694	Windows Server 2008
+T31	PROGRAM 2817 2836	Windows Server 2008
+T32	PROGRAM 3296 3309	Windows Vista
+T33	PROGRAM 1103 1122	Internet Explorer 6
+T34	PROGRAM 1234 1253	Internet Explorer 6
+T35	PROGRAM 1391 1410	Internet Explorer 6
+T36	PROGRAM 1675 1694	Internet Explorer 7
+T37	PROGRAM 1836 1855	Internet Explorer 7
+T38	PROGRAM 1967 1986	Internet Explorer 7
+T39	PROGRAM 2124 2143	Internet Explorer 7
+T40	PROGRAM 2286 2305	Internet Explorer 7
+T7	DEVICE 1527 1540	Itanium-based
+T41	PROGRAM 1553 1572	Internet Explorer 6
+T42	DEVICE 2260 2273	Itanium-based
+T43	PROGRAM 2425 2444	Internet Explorer 7
+T44	PROGRAM 2576 2595	Internet Explorer 7
+T45	PROGRAM 2718 2737	Internet Explorer 7
+T46	PROGRAM 2863 2882	Internet Explorer 7
+T47	DEVICE 2986 2999	Itanium-based
+T48	PROGRAM 3012 3031	Internet Explorer 7
+T9	PROGRAM 3512 3575	MS Internet Explorer XML Parsing Remote Buffer Overflow Exploit
+T11	PROGRAM 3576 3632	MS Internet Explorer XML Parsing Buffer Overflow Exploit
+T12	PROGRAM 3641 3697	MS Internet Explorer XML Parsing Buffer Overflow Exploit
+T14	PROGRAM 3720 3735	Security Update
+T50	PROGRAM 3740 3757	Internet Explorer
+T51	PROGRAM 3767 3830	Microsoft Internet Explorer XML Parsing Buffer Overflow Exploit
+T10	TECH 3284 3287	PoC
+T13	TECH 3255 3258	PoC
+T49	PROGRAM 94 97	6.x
+T52	PROGRAM 99 102	7.x
+T53	PROGRAM 3633 3640	(vista)

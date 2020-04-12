@@ -1,0 +1,42 @@
+T2	ORG 6 20	Panda Security
+T3	ORG 37 60	Mariposa Panda Security
+T4	ORG 63 83	Defence Intelligence
+T5	ORG 97 100	ФБР
+T6	HACKER 203 209	Iserdo
+T7	ORG 309 332	Компании Panda Security
+T8	ORG 335 355	Defence Intelligence
+T9	ORG 416 419	ФБР
+T10	VIRUS 522 528	Iserdo
+T12	ORG 717 731	Panda Security
+T13	ORG 734 754	Defence Intelligence
+T14	ORG 779 802	Рабочей группы Mariposa
+T15	VIRUS 867 874	Бабочка
+T16	HACKER 1000 1006	Iserdo
+T17	LOC 1027 1035	Мариборе
+T19	VIRUS 1098 1105	Бабочка
+T20	LOC 1195 1198	США
+T21	VIRUS 1371 1378	Бабочки
+T22	VIRUS 1633 1640	Бабочка
+T24	PER 1750 1766	Роберт С. Мюллер
+T26	PER 1894 1909	Кристофер Дэвис
+T28	PER 2148 2160	Трой Джеффри
+T29	ORG 2214 2217	ФБР
+T30	PER 2230 2237	Дэвисом
+T32	PER 2440 2452	Хуан Сантана
+T34	HACKER 2570 2576	Iserdo
+T35	ORG 3011 3034	Рабочая группа Mariposa
+T36	ORG 3166 3189	Рабочая группа Mariposa
+T37	ORG 3333 3353	Defence Intelligence
+T38	PER 3613 3625	Мэтт Томпсон
+T39	ORG 3653 3673	Defence Intelligence
+T40	VIRUS 3749 3756	Бабочка
+T41	TECH 1128 1137	Интернете
+T1	VIRUS 261 270	Butterfly
+T42	ORG 1746 1749	ФБР
+T25	HACKER 1774 1780	Iserdo
+T43	ORG 1935 1955	Defence Intelligence
+T33	ORG 2478 2492	Panda Security
+T44	TECH 3300 3308	Mariposa
+T18	LOC 1036 1046	(Словения)
+T11	VIRUS 581 600	Бабочка (Butterfly)
+T45	TECH 3554 3564	IP-адресов

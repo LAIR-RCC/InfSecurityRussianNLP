@@ -1,0 +1,54 @@
+T8	TECH 403 406	CBC
+T9	TECH 418 421	AES
+T10	TECH 472 477	HTTPS
+T1	TECH 30 43	TLS протокола
+T2	PROGRAM 46 63	Microsoft Windows
+T3	PROGRAM 64 84	Microsoft Windows XP
+T37	PROGRAM 84 106	Microsoft Windows 2003
+T38	PROGRAM 106 129	Microsoft Windows Vista
+T39	PROGRAM 129 151	Microsoft Windows 2008
+T40	PROGRAM 151 170	Microsoft Windows 7
+T5	PROGRAM 699 726	Windows XP Professional x64
+T6	PROGRAM 975 998	Windows Server 2003 x64
+T13	PROGRAM 1267 1280	Windows Vista
+T14	PROGRAM 1391 1408	Windows Vista x64
+T30	PROGRAM 845 864	Windows Server 2003
+T31	PROGRAM 1281 1295	Service Pack 2
+T32	PROGRAM 1409 1431	Edition Service Pack 2
+T33	PROGRAM 999 1021	Edition Service Pack 2
+T34	PROGRAM 727 749	Edition Service Pack 2
+T35	PROGRAM 1566 1580	Service Pack 2
+T15	PROGRAM 1527 1565	Windows Server 2008 for 32-bit Systems
+T16	PROGRAM 1676 1717	Windows Server 2008 for x64-based Systems
+T36	PROGRAM 1718 1732	Service Pack 2
+T17	PROGRAM 1828 1873	Windows Server 2008 for Itanium-based Systems
+T41	PROGRAM 1874 1888	Service Pack 2
+T42	PROGRAM 578 588	Windows XP
+T12	PROGRAM 589 603	Service Pack 3
+T18	PROGRAM 1984 2012	Windows 7 for 32-bit Systems
+T19	PROGRAM 2108 2136	Windows 7 for 32-bit Systems
+T43	PROGRAM 2137 2151	Service Pack 1
+T20	PROGRAM 2247 2278	Windows 7 for x64-based Systems
+T11	PROGRAM 1117 1171	Windows Server 2003 with SP2 for Itanium-based Systems
+T44	PROGRAM 865 879	Service Pack 2
+T21	PROGRAM 2374 2405	Windows 7 for x64-based Systems
+T45	PROGRAM 2406 2420	Service Pack 1
+T22	PROGRAM 2516 2560	Windows Server 2008 R2 for x64-based Systems
+T29	PROGRAM 3636 3680	Windows Server 2008 R2 for x64-based Systems
+T46	PROGRAM 3681 3695	Service Pack 1
+T28	PROGRAM 3469 3513	Windows Server 2008 R2 for x64-based Systems
+T47	PROGRAM 3515 3539	Server Core installation
+T27	PROGRAM 3290 3331	Windows Server 2008 for x64-based Systems
+T48	PROGRAM 3332 3346	Service Pack 2
+T49	PROGRAM 3348 3372	Server Core installation
+T26	PROGRAM 3114 3152	Windows Server 2008 for 32-bit Systems
+T50	PROGRAM 3153 3167	Service Pack 2
+T51	PROGRAM 3169 3193	Server Core installation
+T25	PROGRAM 2955 3003	Windows Server 2008 R2 for Itanium-based Systems
+T52	PROGRAM 3004 3018	Service Pack 1
+T24	PROGRAM 2811 2859	Windows Server 2008 R2 for Itanium-based Systems
+T23	PROGRAM 2656 2700	Windows Server 2008 R2 for x64-based Systems
+T53	PROGRAM 2701 2715	Service Pack 1
+T54	PROGRAM 3697 3721	Server Core installation
+T55	TECH 486 489	URL
+T4	TECH 315 345	Transport Layer Security (TLS)

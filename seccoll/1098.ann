@@ -1,0 +1,31 @@
+T2	ORG 14 41	Mitsubishi Heavy Industries
+T3	ORG 49 64	Lockheed Martin
+T5	ORG 182 205	Лаборатории Касперского
+T6	PER 206 224	Александра Гостева
+T8	ORG 292 307	Lockheed Martin
+T10	ORG 393 416	Лаборатории Касперского
+T11	PER 417 435	Александра Гостева
+T13	ORG 503 518	Lockheed Martin
+T14	ORG 646 678	Mitsubishi Heavy Industries, Ltd
+T15	LOC 729 735	Японии
+T17	ORG 896 911	Lockheed Martin
+T18	ORG 946 949	RSA
+T19	PER 1056 1072	Александр Гостев
+T20	ORG 1136 1168	Mitsubishi Heavy Industries, Ltd
+T21	ORG 1204 1207	RSA
+T22	ORG 1210 1225	Lockheed Martin
+T23	PER 1393 1409	Александр Гостев
+T25	ORG 1685 1717	Mitsubishi Heavy Industries, Ltd
+T28	ORG 2030 2053	Лаборатории Касперского
+T29	ORG 2088 2120	Mitsubishi Heavy Industries, Ltd
+T30	ORG 2253 2285	Mitsubishi Heavy Industries, Ltd
+T33	ORG 2553 2585	Mitsubishi Heavy Industries, Ltd
+T1	ORG 43 46	RSA
+T4	ORG 136 139	RSA
+T7	ORG 257 284	Mitsubishi Heavy Industries
+T9	ORG 286 289	RSA
+T12	ORG 468 495	Mitsubishi Heavy Industries
+T16	ORG 497 500	RSA
+T24	ARTEFACT 768 772	F-15
+T27	PROGRAM 2966 2978	Adobe Reader
+T26	TECH 2693 2703	PDF-файлом

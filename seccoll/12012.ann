@@ -1,0 +1,31 @@
+T2	PROGRAM 41 61	Microsoft Windows XP
+T1	PROGRAM 23 40	Microsoft Windows
+T19	PROGRAM 61 83	Microsoft Windows 2003
+T20	PROGRAM 83 106	Microsoft Windows Vista
+T21	PROGRAM 106 128	Microsoft Windows 2008
+T22	PROGRAM 128 147	Microsoft Windows 7
+T4	ARTEFACT 841 932	MS12-047: Vulnerabilities in Windows Kernel-Mode Drivers Could Allow Elevation of Privilege
+T5	PROGRAM 1012 1037	Windows XP Service Pack 3
+T23	PROGRAM 1133 1183	Windows XP Professional x64 Edition Service Pack 2
+T24	PROGRAM 1279 1313	Windows Server 2003 Service Pack 2
+T25	PROGRAM 1409 1455	Windows Server 2003 x64 Edition Service Pack 2
+T26	PROGRAM 1551 1605	Windows Server 2003 with SP2 for Itanium-based Systems
+T27	PROGRAM 1701 1729	Windows Vista Service Pack 2
+T28	PROGRAM 1825 1865	Windows Vista x64 Edition Service Pack 2
+T29	PROGRAM 1961 2014	Windows Server 2008 for 32-bit Systems Service Pack 2
+T6	PROGRAM 2110 2166	Windows Server 2008 for x64-based Systems Service Pack 2
+T7	PROGRAM 2262 2322	Windows Server 2008 for Itanium-based Systems Service Pack 2
+T30	PROGRAM 2418 2446	Windows 7 for 32-bit Systems
+T31	PROGRAM 2542 2585	Windows 7 for 32-bit Systems Service Pack 1
+T32	PROGRAM 2681 2712	Windows 7 for x64-based Systems
+T8	PROGRAM 2808 2854	Windows 7 for x64-based Systems Service Pack 1
+T33	PROGRAM 2950 2994	Windows Server 2008 R2 for x64-based Systems
+T9	PROGRAM 3090 3149	Windows Server 2008 R2 for x64-based Systems Service Pack 1
+T10	PROGRAM 3245 3293	Windows Server 2008 R2 for Itanium-based Systems
+T11	PROGRAM 3389 3452	Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
+T12	PROGRAM 3548 3628	Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)
+T13	PROGRAM 3724 3807	Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)
+T14	PROGRAM 3903 3974	Windows Server 2008 R2 for x64-based Systems (Server Core installation)
+T15	PROGRAM 4070 4156	Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)
+T16	PROGRAM 550 560	win32k.sys
+T17	PROGRAM 293 303	win32k.sys

@@ -1,0 +1,51 @@
+T3	EVENT 136 159	PHDays III Young School
+T5	EVENT 264 287	PHDays III Young School
+T6	LOC 401 407	Москве
+T8	EVENT 476 495	PHDays Young School
+T10	PER 703 718	Андрея Исхакова
+T11	ORG 722 780	Томского университета систем управления и радиоэлектроники
+T12	LOC 847 853	Томска
+T14	PER 920 937	Андреем Исхаковым
+T15	EVENT 1073 1096	PHDays III Young School
+T16	PER 1221 1236	Андрея Исхакова
+T17	PER 1440 1454	Андрей Чечулин
+T19	PER 1555 1571	Николай Ткаченко
+T21	ARTEFACT 1610 1687	Разработка и реализация механизма мандатного управления доступом в СУБД MySQL
+T22	PER 1691 1705	Ксения Цыганок
+T23	LOC 1709 1718	Таганрога
+T26	ORG 2334 2337	ВАК
+T29	ORG 2722 2743	Positive Technologies
+T30	EVENT 2769 2781	Young School
+T33	ORG 2881 2897	Digital Security
+T34	ORG 2908 2915	Яндекса
+T35	ORG 2925 2930	Хакер
+T40	ORG 3079 3086	Астерос
+T41	PER 3143 3164	Капитаном Очевидность
+T42	PER 3446 3460	Андрей Петухов
+T44	EVENT 3518 3541	PHDays III Young School
+T45	EVENT 3687 3699	Young School
+T46	EVENT 4205 4217	Young School
+T47	PER 4322 4338	Дмитрий Кузнецов
+T48	ORG 4375 4396	Positive Technologies
+T1	ORG 2826 2847	Positive Technologies
+T2	ORG 2849 2858	Microsoft
+T4	EVENT 1866 1879	Young School,
+T9	ORG 2860 2879	Advanced Monitoring
+T24	ORG 2899 2906	ERPScan
+T25	ORG 2932 2935	ВМК
+T27	ORG 2936 2939	МГУ
+T7	ORG 2941 2945	МИФИ
+T31	ORG 2947 2954	СПИИРАН
+T32	ORG 3464 3467	ВМК
+T36	ORG 3468 3471	МГУ
+T18	LOC 1458 1474	Санкт-Петербурга
+T37	ARTEFACT 1485 1541	Построение графов атак для анализа событий безопасности.
+T28	ORG 2472 2490	Positive Education
+T39	ORG 2500 2521	Positive Technologies
+T43	EVENT 388 398	PHDays III
+T49	ARTEFACT 647 702	Система двухфакторной аутентификации на основе QR-кодов
+T13	ARTEFACT 1755 1833	Статистический анализ для классификации вредоносного программного обеспечения,
+T50	EVENT 1985 1991	PHDays
+T38	ORG 3015 3035	Russian Defcon Group
+T51	ORG 2956 3013	Дармштадтского технического и Тюбингенского университетов
+T20	LOC 1572 1579	(Томск)

@@ -1,0 +1,22 @@
+T1	LOC 6 9	США
+T2	LOC 123 131	Колумбия
+T3	LOC 133 136	США
+T4	LOC 279 287	Колумбия
+T5	LOC 289 292	США
+T6	ORG 386 411	Мичиганского университета
+T7	PROGRAM 474 494	Digital Vote by Mail
+T8	LOC 633 636	США
+T9	PER 926 948	Джей Алекса Хэлдермана
+T11	PROGRAM 1510 1523	Ruby on Rails
+T14	PER 1736 1746	Хэлдермана
+T15	ORG 3325 3350	Мичиганского университета
+T16	PROGRAM 3616 3636	Digital Vote by Mail
+T10	PROGRAM 1422 1442	Digital Vote by Mail
+T13	DEVICE 1630 1638	(Apache)
+T12	PROGRAM 1584 1591	(MySQL)
+T17	PROGRAM 705 713	PDF-файл
+T18	TECH 1129 1136	PIN-код
+T19	TECH 1170 1183	PDF-бюллетень
+T20	TECH 1830 1844	PDF-бюллетеней
+T21	TECH 2175 2188	PDF-бюллетеня
+T22	TECH 2055 2061	".pdf"

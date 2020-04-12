@@ -1,0 +1,15 @@
+T3	PER 448 453	Диман
+T7	LOC 761 768	Тамбова
+T11	LOC 1804 1811	Тамбова
+T15	PROGRAM 2211 2214	МИС
+T1	ORG 704 758	Городская клиническая больница имени Архиепископа Луки
+T2	PROGRAM 2920 2931	SecretNet 7
+T4	PROGRAM 3289 3320	Dr . Web Desktop Security Suite
+T5	PROGRAM 3012 3023	SecretNet 7
+T6	PROGRAM 3459 3494	Dr . Web Desktop Security Suite 1 7
+T8	ORG 4019 4022	ФАС
+T9	PROGRAM 3718 3753	Security Studio Endpoint Protection
+T10	TECH 3756 3765	Antivirus
+T12	TECH 3768 3785	Personal Firewall
+T13	TECH 3788 3792	HIPS
+T14	TECH 3795 3807	Subscription

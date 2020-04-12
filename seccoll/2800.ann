@@ -1,0 +1,33 @@
+T1	ORG 414 424	Falcongaze
+T3	PER 3118 3131	Иван Григоров
+T4	ORG 3157 3166	Хабрахабр
+T6	ORG 3742 3750	Facebook
+T9	PROGRAM 3955 3973	Netscape Navigator
+T10	ORG 4034 4042	Netscape
+T11	PER 4481 4495	Дональда Кнута
+T13	ORG 4775 4795	Министерство обороны
+T14	ORG 4993 5002	Пентагона
+T15	LOC 5099 5102	США
+T16	PER 5103 5115	Эштон Картер
+T17	ORG 5318 5326	Известия
+T18	PER 5374 5389	Алексей Соколов
+T19	ORG 5405 5416	Минкомсвязи
+T20	PROGRAM 13 23	bug bounty
+T21	PROGRAM 300 310	bug bounty
+T22	PROGRAM 462 472	bug bounty
+T23	PROGRAM 556 566	bug bounty
+T2	PROGRAM 1704 1713	ВКонтакте
+T24	PROGRAM 2319 2329	bug bounty
+T26	PROGRAM 2759 2769	bug bounty
+T27	PROGRAM 3037 3047	bug bounty
+T5	PROGRAM 3437 3447	bug bounty
+T28	PROGRAM 3459 3468	HackerOne
+T7	ORG 3753 3762	Microsoft
+T25	PROGRAM 3774 3793	Internet Bug Bounty
+T8	PROGRAM 4314 4324	bug bounty
+T12	ARTEFACT 4547 4573	Искусство программирования
+T29	PROGRAM 4670 4680	Bug bounty
+T30	LOC 4796 4799	США
+T31	PROGRAM 5434 5444	bug bounty
+T32	HACKER_GROUP 2349 2365	whitehat-хакеров
+T33	HACKER_GROUP 3649 3666	whitehat-хакерами

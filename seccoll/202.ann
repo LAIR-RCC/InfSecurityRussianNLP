@@ -1,0 +1,5 @@
+T4	PROGRAM 360 364	BIOS
+T1	ORG 57 63	Эшелон
+T2	ORG 41 45	ТОНК
+T3	PROGRAM 243 259	windows embedded
+T5	PROGRAM 264 269	linux

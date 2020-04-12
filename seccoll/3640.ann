@@ -1,0 +1,5 @@
+T1	PROGRAM 26 58	IBM WebSphere Application Server
+T2	PROGRAM 59 91	IBM WebSphere Application Server
+T3	PROGRAM 328 360	$WAS_HOME/systemapps/isclite.ear
+T4	PROGRAM 363 388	$WAS_HOME/bin/client_ffdc
+T5	PROGRAM 588 600	APAR PM49712

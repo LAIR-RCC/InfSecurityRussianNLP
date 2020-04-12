@@ -1,0 +1,5 @@
+T1	PROGRAM 23 40	Microsoft Windows
+T2	PROGRAM 41 60	Microsoft Windows 7
+T3	PROGRAM 60 89	Microsoft Windows Server 2008
+T4	PROGRAM 220 233	Windows CSRSS
+T5	PROGRAM 516 564	Windows Client/Server Run-time Subsystem (CSRSS)

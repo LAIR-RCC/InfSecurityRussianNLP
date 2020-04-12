@@ -1,0 +1,8 @@
+T1	PROGRAM 23 40	Microsoft Windows
+T2	PROGRAM 41 64	Microsoft Windows Vista
+T3	PROGRAM 64 93	Microsoft Windows Server 2008
+T4	PROGRAM 93 112	Microsoft Windows 7
+T7	PROGRAM 112 131	Microsoft Windows 8
+T8	PROGRAM 131 160	Microsoft Windows Server 2012
+T9	PROGRAM 160 180	Microsoft Windows RT
+T6	ARTEFACT 563 645	MS13-036: Vulnerabilities in Kernel-Mode Driver Could Allow Elevation Of Privilege

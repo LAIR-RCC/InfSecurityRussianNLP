@@ -1,0 +1,7 @@
+T3	PROGRAM 254 271	Enterprise Portal
+T1	VIRUS 170 173	XSS
+T2	PROGRAM 24 63	Microsoft Dynamics AX Enterprise Portal
+T10	PROGRAM 64 103	Microsoft Dynamics AX Enterprise Portal
+T4	PROGRAM 535 591	Microsoft Dynamics AX 2012 Enterprise Portal (KB2706738)
+T5	PROGRAM 592 648	Microsoft Dynamics AX 2012 Enterprise Portal (KB2710639)
+T6	PROGRAM 649 705	Microsoft Dynamics AX 2012 Enterprise Portal (KB2711239)

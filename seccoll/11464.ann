@@ -1,0 +1,34 @@
+T1	ORG 6 15	PandaLabs
+T2	ORG 39 48	PandaLabs
+T3	VIRUS 171 177	Трояны
+T4	VIRUS 311 317	Трояны
+T6	VIRUS 752 758	Трояны
+T7	VIRUS 783 789	Трояны
+T8	LOC 991 998	Тайвань
+T9	LOC 1015 1021	Россия
+T10	LOC 1023 1031	Бразилия
+T11	LOC 1033 1042	Аргентина
+T12	LOC 1044 1050	Польша
+T13	LOC 1053 1060	Испания
+T14	LOC 1243 1248	Индии
+T15	LOC 1250 1258	Бразилии
+T16	LOC 1261 1267	России
+T21	PROGRAM 1592 1600	Facebook
+T22	VIRUS 1686 1705	Black Hat SEO-атаки
+T23	ORG 2318 2327	Microsoft
+T26	PROGRAM 2649 2656	Twitter
+T27	PROGRAM 2893 2900	Twitter
+T28	ORG 2979 2988	PandaLabs
+T29	ORG 179 188	PandaLabs
+T17	LOC 1325 1383	Соединённое Королевство Великобритании и Северной Ирландии
+T18	VIRUS 2125 2154	"Здесь у вас" (Here you Have)
+T19	VIRUS 2412 2433	"Бабочка" (Butterfly)
+T24	PROGRAM 2552 2559	Twitter
+T25	VIRUS 2586 2606	"Радужный" (Rainbow)
+T30	PROGRAM 2762 2772	JavaScript
+T31	VIRUS 3155 3165	FakePlayer
+T32	TECH 3256 3259	SMS
+T33	VIRUS 3344 3352	TapSnake
+T34	VIRUS 1506 1538	"Похищение клика" (clickjacking)
+T5	VIRUS 573 593	(Black Hat SEO-атак)
+T20	PROGRAM 3548 3555	Android

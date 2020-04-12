@@ -1,0 +1,6 @@
+T1	ORG 11 21	Ziff-Davis
+T3	ORG 70 80	Sourcefire
+T6	PER 384 393	Ватчински
+T7	PROGRAM 739 744	SNORT
+T2	PER 82 114	Мэтт Ватчински (Matt Watchinski)
+T4	VIRUS 169 175	(DDoS)

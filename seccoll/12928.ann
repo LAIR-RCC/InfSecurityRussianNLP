@@ -1,0 +1,16 @@
+T3	ORG 994 1002	WebSense
+T4	ORG 1436 1442	Sophos
+T5	ORG 1547 1563	Secure Computing
+T7	ORG 2175 2191	Secure Computing
+T8	PER 2407 2412	Генри
+T9	PER 2546 2551	Генри
+T10	PER 2955 2960	Генри
+T11	PER 2962 2971	Алан Нунн
+T12	ORG 3018 3034	Newport Networks
+T13	TECH 3070 3074	VoIP
+T14	PER 3808 3812	Нунн
+T1	TECH 6 10	VoIP
+T15	ORG 20 36	Secure Computing
+T16	ORG 12 18	Sophos
+T2	TECH 927 933	(VoIP)
+T6	PER 2137 2159	Пол Генри (Paul Henry)

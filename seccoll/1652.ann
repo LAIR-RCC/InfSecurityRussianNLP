@@ -1,0 +1,22 @@
+T3	TECH 597 600	MDM
+T5	ORG 1218 1231	Правительства
+T10	ARTEFACT 1867 1978	Bring Your Own Device. A Toolkit to Support Federal Agencies Implementing Bring Your Own Device (BYOD) Programs
+T13	ORG 2171 2182	Белым Домом
+T14	LOC 2293 2299	России
+T17	PER 2394 2401	Путиным
+T18	PER 2404 2414	Медведевым
+T19	ARTEFACT 2541 2543	ФП
+T21	LOC 2672 2678	России
+T23	ARTEFACT 3359 3397	Mobile Security Reference Architecture
+T2	ORG 1352 1365	Правительства
+T6	LOC 1366 1372	России
+T4	ORG 2030 2033	CIO
+T11	LOC 2034 2037	США
+T7	ORG 1440 1451	Минкомсвязь
+T29	ORG 1454 1457	ФСО
+T8	ORG 1471 1474	ФСБ
+T30	ORG 1477 1482	ФСТЭК
+T15	ARTEFACT 2322 2379	Федеральную Программу "Информационное общество 2012-2020"
+T16	ORG 3230 3234	NIST
+T22	TECH 3447 3451	BYOD
+T1	TECH 2123 2154	( Digital Government Strategy )

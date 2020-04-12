@@ -1,0 +1,47 @@
+T1	ORG 20 67	Санкт-Петербургской торгово-промышленной палате
+T3	EVENT 300 342	VI International CIO Congress White Nights
+T4	EVENT 356 364	Конгресс
+T7	EVENT 532 541	Конгрессе
+T8	LOC 589 595	России
+T9	LOC 597 603	Москвы
+T10	LOC 605 610	Урала
+T11	LOC 612 624	Калининграда
+T12	LOC 626 643	Нижнего Новгорода
+T13	LOC 645 664	Вологодской области
+T14	LOC 667 677	Юга России
+T17	ORG 838 861	Лаборатория Касперского
+T19	ORG 969 996	Kaspersky Internet Security
+T20	ORG 1048 1060	SPb CIO Club
+T21	PER 1091 1105	Юрия Антоненко
+T23	PER 1140 1157	Александра Котова
+T24	ORG 1179 1187	ИТ NOVUS
+T25	PROGRAM 1293 1302	Help Desk
+T27	PER 1410 1422	Сергей Гогин
+T29	ORG 1850 1861	Океанприбор
+T30	PER 1880 1898	Станислав Реутович
+T31	TECH 2451 2454	ЦОД
+T32	PER 2621 2626	Игорь
+T33	PER 2836 2841	Игорь
+T34	TECH 2926 2935	EcoBreеze
+T37	ORG 3593 3616	Лаборатория Касперского
+T38	ORG 3618 3627	Microsoft
+T39	ORG 3645 3647	1С
+T40	ORG 3663 3684	AT Consulting, Айти-1
+T41	ORG 3686 3693	Тринити
+T42	ORG 3695 3700	ИнТеР
+T43	ORG 3702 3711	My Hunter
+T44	ORG 3713 3724	Event House
+T2	EVENT 86 108	Традиционное заседание
+T18	ORG 1132 1136	ЦКМБ
+T22	ORG 109 162	Санкт-Петербургского клуба ИТ-директоров SPb CIO Club
+T26	ORG 165 183	Комитета по ИТ ТПП
+T45	LOC 184 187	СПб
+T5	ORG 689 701	SPb CIO Club
+T16	PROGRAM 1482 1491	Help Desk
+T28	PROGRAM 1690 1699	Help Desk
+T35	ORG 3196 3221	APC by Schneider Electric
+T46	ORG 3222 3297	Санкт-Петербургский клуб ИТ-директоров предприятий Северо-Западного региона
+T36	ORG 3554 3564	Партнерами
+T47	ORG 3634 3643	Вымпелком
+T48	ORG 3629 3632	APC
+T49	ORG 3649 3661	NVisionGroup
