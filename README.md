@@ -6,4 +6,15 @@ The RuCyBERT model trained on Russian information security news over 70 epoches 
 
 | Label | RuBERT F1 span | RuCyBERT F1 span |
 |-|-|-|
-| DEVICE | 0.429 | 0.535
+| DEVICE | 0.429 | **0.535** |
+| EVENT | 0.662 | **0.688** |
+| HACKER | 0.589 | **0.684** |
+| LOC | **0.911** | **0.911** |
+| ORG | 0.792 | **0.808** |
+| PER | 0.838 | **0.863** |
+| PROGRAM | 0.654 | **0.683** |
+| TECH | 0.673 | **0.712** |
+| VIRUS | 0.459 | **0.613** |
+| F1-micro | 0.718 | **0.752** |
+| F1-macro | 0.667 | **0.723** |
+
