@@ -4,13 +4,6 @@ This repository contains the Seccoll collection for the NER task in the informat
 ## 2. RuCyBERT Model
 The RuCyBERT model trained on Russian information security news over 70 epoches can be obtained from https://drive.google.com/file/d/1JEbXaQjNd51vtaIGjw3MHr60qWgxQzbH/view?usp=sharing
 
-<table>
-  <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
-</table>
-
+| Label | RuBERT F1 span | RuCyBERT F1 span |
+|-|-|-|
+| DEVICE | 0.429 | 0.535
