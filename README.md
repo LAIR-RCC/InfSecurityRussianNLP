@@ -297,21 +297,21 @@ The RuCyBERT model trained on Russian information security news over 70 epoches 
 
 **Прочие релевантные сущности**<br/>
 Помимо именованных сущностей, перечисленных выше, следует упомянуть еще несколько, которые являются релевантными для данной предметной области.
-а. Названия кнопок
+* Названия кнопок
 Backspace, Shift, Ctrl
-б. Названия директорий
+* Названия директорий
 C:Program Files (x86)Javajre7bin; D/windows/sys32/x
-в. Ccылки
+* Ccылки
 http://nonverbalicon.blogspot.com/, http://www.gemalto.com/emv
-г. Названия ошибок
+* Названия ошибок
 Checksum Error
-д. Криптовалюта
+* Криптовалюта
 Ethereum (Эфириум), биткоин
-е. Банковские карты/Платежные системы
+* Банковские карты/Платежные системы
 Visa, MasterCard
-ж. Параметры
+* Параметры
 MTU, Read only
-з. Факторы
+* Факторы
 Organizational Loss Factors, External Loss Factors, Sensitivity
 
 Соотнести данные сущности с какими-либо из используемых тегов не представляется возможным, поэтому на данном этапе проекта они не размечаются.
