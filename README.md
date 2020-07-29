@@ -138,24 +138,31 @@ The RuCyBERT model trained on Russian information security news over 70 epoches 
 К программам относятся:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• операционные системы;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;(31) … TFO используется в **iOS 9** (PROGRAM)…  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;(31) … TFO используется в **iOS 9** (PROGRAM)…
+
 &nbsp;&nbsp;&nbsp;&nbsp;• браузеры и другие скачиваемые и устанавливаемые на компьютер программы;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;(32) … распространяются на браузеры **Microsoft Internet Explorer 10** (PROGRAM) и **Google Chrome** (PROGRAM)…<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;(33) **Adblock** (PROGRAM) выперли из магазина…<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;(34) При закрытии окна из процессов **Диспетчера задач** (PROGRAM) исчезают…<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;(34) При закрытии окна из процессов **Диспетчера задач** (PROGRAM) исчезают…
+
 &nbsp;&nbsp;&nbsp;&nbsp;• сайты<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;(35) … презентации с серии семинаров доступны на **SlideShare** (PROGRAM)…  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;(35) … презентации с серии семинаров доступны на **SlideShare** (PROGRAM)…
+
 &nbsp;&nbsp;&nbsp;&nbsp;• файлы и процессы<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;(36) **Autorun.exe** (PROGRAM) - программа, которая обычно запускает… <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;(37) … одна будет внедрена в процесс mu.exe (PROGRAM), другая в процесс **SpiService.exe** (PROGRAM).<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;(38) … не забудьте использовать файлик **ipfilter.dat** (PROGRAM).<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;(38) … не забудьте использовать файлик **ipfilter.dat** (PROGRAM).
+
 &nbsp;&nbsp;&nbsp;&nbsp;• различные программы-службы<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;(39) Насчет службы **"Запуск серверных процессов DCOM"**  (PROGRAM) я наблюдал следующие странности…<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;(40) … что делает служба **"Удаленный вызов RPC-процедур"** (PROGRAM)?<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;(40) … что делает служба **"Удаленный вызов RPC-процедур"** (PROGRAM)?
+
 &nbsp;&nbsp;&nbsp;&nbsp;• отдельно упомянутые методы, функции и команды на каком-либо языке программирования<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;(41) … из-за ошибки завышения на единицу в функции **png_formatted_warning()** (PROGRAM).<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;(41) … из-за ошибки завышения на единицу в функции **png_formatted_warning()** (PROGRAM).
+
 &nbsp;&nbsp;&nbsp;&nbsp;• утилиты<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;(42) Например, утилита **Autorun** (PROGRAM)…<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;(42) Например, утилита **Autorun** (PROGRAM)…
+
 &nbsp;&nbsp;&nbsp;&nbsp;• библиотеки, каталоги, средства разработки<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;(43) … **SDK** (PROGRAM) для разработки…<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;(44) Теперь контекстные и **PCRE** (PROGRAM) опции правила могут…
