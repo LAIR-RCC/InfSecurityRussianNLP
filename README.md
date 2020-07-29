@@ -92,15 +92,15 @@ The RuCyBERT model trained on Russian information security news over 70 epoches 
 
 **Размечаемые сущности**<br/>
 Для разметки текстов используются следующие теги:
-    * Org
-    * Per
-    * Loc 
-    * Hacker
-    * Program 
-    * Device
-    * Tech
-    * Event
-    * Virus
+* Org
+* Per
+* Loc 
+* Hacker
+* Program 
+* Device
+* Tech
+* Event
+* Virus
     
 **Org**<br/>
 Тег Org используется для разметки организаций (в том числе СМИ). Этим же тегом размечаются отделы, отделения и подразделения организаций в том случае, если они имеют свое собственное название (см. пример (9)). 
